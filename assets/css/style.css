@@ -24,12 +24,28 @@ a:active {
   text-decoration: none;
 }
 
-/* ------------------- colors */
+/* ------------------- header */
 
 .bg-dark {
     background-color: #0A014F!important;
     font-family: 'Unica One', sans-serif;
     font-size: 150%;
+}
+
+/*Ease in and out effect from Resume project*/
+.navbar-nav a {
+    color: #fafafa!important;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+/*Ghost Button effect from https://www.developerdrive.com/8-simple-css-hover-effects/ but modified */
+.navbar-nav a:hover {
+    color: #DB3069!important;
+    background: rgba(0,0,0,0);
+	box-shadow: inset 0 0 0 5px #fafafa;
 }
 
 /* ------------------- footer */
@@ -41,7 +57,7 @@ footer {
 }
 
 .social-icon i {
-    font-size: 25px;
+    font-size: 30px;
     color: #fafafa;
     padding-left: 5px;
     transition: all 0.35s ease-in-out;
