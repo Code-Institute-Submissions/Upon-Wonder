@@ -1,9 +1,14 @@
 /* ------------------- fonts */
 
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 .unica-one {
     font-family: 'Unica One', sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
 }
 
 /* ------------------- links */
@@ -113,4 +118,21 @@ footer {
 
 #footer-content {
     padding: 30px;
+}
+
+/* ------------------- about.html */
+
+.band-member {
+    padding: 20px;
+}
+
+.member-photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.member-photo img {
+    border-radius: 50%;
 }
