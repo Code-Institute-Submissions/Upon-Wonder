@@ -6,6 +6,24 @@
     font-family: 'Unica One', sans-serif;
 }
 
+/* ------------------- links */
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
 /* ------------------- colors */
 
 .bg-dark {
@@ -19,7 +37,7 @@
 footer {
     background-color: #0A014F;
     color: #fafafa;
-    min-height: 80px;
+    min-height: 70px;
 }
 
 .social-icon i {
@@ -34,4 +52,8 @@ footer {
 
 .social-icon i:hover {
     color: #DB3069;
+}
+
+#footer-content {
+    padding: 30px;
 }
