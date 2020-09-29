@@ -126,13 +126,6 @@ footer {
     padding: 70px;
 }
 
-.member-photo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 .member-photo img {
     border-radius: 50%;
 }
