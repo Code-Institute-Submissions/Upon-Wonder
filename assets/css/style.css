@@ -9,3 +9,11 @@
     font-family: 'Unica One', sans-serif;
     font-size: 150%;
 }
+
+/* ------------------- footer */
+
+footer {
+    background-color: #0A014F;
+    color: #fafafa;
+    min-height: 80px;
+}
