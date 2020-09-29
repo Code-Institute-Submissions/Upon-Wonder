@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
 
+.unica-one {
+    font-family: 'Unica One', sans-serif;
+}
+
 /* ------------------- colors */
 
 .bg-dark {
@@ -16,4 +20,8 @@ footer {
     background-color: #0A014F;
     color: #fafafa;
     min-height: 80px;
+}
+
+.social-icon {
+    
 }
