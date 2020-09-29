@@ -22,6 +22,16 @@ footer {
     min-height: 80px;
 }
 
-.social-icon {
-    
+.social-icon i {
+    font-size: 25px;
+    color: #fafafa;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-icon i:hover {
+    color: #DB3069;
 }
