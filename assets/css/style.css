@@ -40,8 +40,23 @@ a:active {
     margin-left: -175px;
 }
 
-#index-button {
+.btn {
+    background-color: #DB3069;
+    border-color: #DB3069;
+    font-size: 25px;
+}
 
+.btn:hover {
+    color: #DB3069;
+    background-color: #fafafa;
+    border-color: #fafafa;
+    font-size: 25px;
+}
+
+#index-button {
+    position: absolute;
+    top: 75%;
+    left: 42%;
 }
 
 /* ------------------- header */
