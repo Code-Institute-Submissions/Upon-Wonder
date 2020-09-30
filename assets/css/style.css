@@ -152,3 +152,20 @@ hr {
     width: 200px;
     margin-left: 0;
 }
+
+/* ------------------- gallery.html */
+
+#gallery {
+    column-count: 3;
+    line-height: 0;
+    column-gap: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#gallery img {
+    width: 100%;
+    display: block
+}
+
+/* ------------------- tourdates.html */
