@@ -69,19 +69,36 @@ a:active {
 }
 
 #index-button a {
-
+    color: #fafafa;
+    background-color: #DB3069;
+    font-size: 24px;
+    padding: 10px;
+    text-decoration: none;
 }
 
 #index-button a:visited {
-
+    color: #fafafa;
+    background-color: #DB3069;
+    font-size: 24px;
+    padding: 10px;
+    text-decoration: none;
 }
 
 #index-button a:hover {
-
+    color: #DB3069;
+    background-color: #fafafa;
+    font-size: 24px;
+    padding: 10px;
+    text-decoration: none;
 }
 
 #index-button a:active {
-    
+    color: #DB3069;
+    background-color: #fafafa;
+    font-size: 24px;
+    padding: 10px;
+    text-decoration: none;
+
 }
 
 
