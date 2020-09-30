@@ -62,24 +62,29 @@ a:active {
     margin-left: -175px;
 }
 
-.btn {
-    background-color: #DB3069;
-    border-color: #DB3069;
-    font-size: 25px;
-}
-
-.btn:hover {
-    color: #DB3069;
-    background-color: #fafafa;
-    border-color: #fafafa;
-    font-size: 25px;
-}
-
 #index-button {
     position: absolute;
     top: 75%;
     left: 42%;
 }
+
+#index-button a {
+
+}
+
+#index-button a:visited {
+
+}
+
+#index-button a:hover {
+
+}
+
+#index-button a:active {
+    
+}
+
+
 
 /* ------------------- header */
 
