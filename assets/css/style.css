@@ -33,6 +33,12 @@ a:active {
   text-decoration: none;
 }
 
+/* ------------------- body*/
+
+body {
+    padding-top: 76px;
+}
+
 /* ------------------- index.html*/
 
 #index-image {
@@ -99,8 +105,6 @@ a:active {
     text-decoration: none;
 
 }
-
-
 
 /* ------------------- header */
 
