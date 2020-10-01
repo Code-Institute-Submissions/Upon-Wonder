@@ -17,6 +17,7 @@
 - Zoom effect on index image made originally by [Bharat Karavadra](https://medium.com/@bharatkaravadra/how-to-create-a-css-zoom-in-out-effect-546654fb54e4) but modified.
 
 ## Helpful tutorials for when getting stuck in coding
+- [Responsive embed](https://www.youtube.com/watch?v=HjAAC6BGp5c)
 - [Column reverse for smaller screens in bootstrap](https://www.youtube.com/watch?v=MkSn0GbocXw)
 
 ### Content

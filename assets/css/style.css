@@ -225,4 +225,8 @@ hr {
     display: block
 }
 
+.video-column {
+    padding: 0px 50px 50px 50px;
+}
+
 /* ------------------- tourdates.html */
