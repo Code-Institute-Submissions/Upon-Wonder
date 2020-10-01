@@ -213,16 +213,19 @@ hr {
     padding: 50px;
 }
 
-#gallery {
-    column-count: 3;
-    line-height: 0;
-    column-gap: 0px;
-    padding: 0px 50px 50px 50px;
+.images img {
+    width: 100%;
 }
 
-#gallery img {
-    width: 100%;
-    display: block
+.left {
+    
+}
+
+.center {
+    
+}
+.right {
+    
 }
 
 .video-column {
