@@ -228,3 +228,8 @@ hr {
 }
 
 /* ------------------- tourdates.html */
+
+#tour-dates-background {
+    background-image: url('../images/smokey.jpg');
+    
+}
