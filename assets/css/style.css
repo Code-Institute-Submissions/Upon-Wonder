@@ -209,12 +209,15 @@ hr {
 
 /* ------------------- gallery.html */
 
+.gallery-text-column {
+    padding: 50px;
+}
+
 #gallery {
     column-count: 3;
     line-height: 0;
     column-gap: 0px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    padding: 0px 50px 50px 50px;
 }
 
 #gallery img {
