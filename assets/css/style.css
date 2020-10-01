@@ -184,6 +184,20 @@ hr {
     margin-left: 0;
 }
 
+.member-social-icon {
+    color: black;
+    font-size: 30px;
+    padding-left: 10px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.member-social-icon:hover {
+    color: #DB3069;
+}
+
 /* ------------------- gallery.html */
 
 #gallery {
