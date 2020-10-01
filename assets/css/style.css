@@ -213,13 +213,14 @@ hr {
     padding: 50px;
 }
 
-.images img {
-    width: 100%;
-}
-
 .left, .center, .right {
     padding-left: 0px;
     padding-right: 0px;    
+}
+
+.gallery-margin {
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .video-column {
