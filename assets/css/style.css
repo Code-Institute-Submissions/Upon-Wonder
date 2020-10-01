@@ -217,15 +217,9 @@ hr {
     width: 100%;
 }
 
-.left {
-    
-}
-
-.center {
-    
-}
-.right {
-    
+.left, .center, .right {
+    padding-left: 0px;
+    padding-right: 0px;    
 }
 
 .video-column {
