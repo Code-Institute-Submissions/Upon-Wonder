@@ -232,14 +232,14 @@ hr {
 #tour-dates-background {
     background-image: url('../images/smokey.jpg');
     width: 100%;
-    height: auto;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .tour-dates {
     background: white;
     padding: 50px;
-    margin: 50px 0px 50px 50px;
+    margin: 50px 50px 50px 50px;
 }
 
 .tour-dates a {
