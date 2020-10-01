@@ -235,3 +235,7 @@ hr {
     height: auto;
     background-size: cover;
 }
+
+.tour-dates {
+    background: white;
+}
