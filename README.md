@@ -24,4 +24,5 @@
 ### Media
 - Pictures borrowed for free from [Unsplash](https://unsplash.com/).
 - Logo made with the free technology of [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
+- Video in gallery.html borrowed with premission from [Da SHU](https://www.youtube.com/channel/UC8pmgHZnw2wO4djy1Ur3umA/videos)
 ### Acknowledgements
