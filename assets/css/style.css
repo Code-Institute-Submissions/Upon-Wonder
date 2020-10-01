@@ -231,5 +231,7 @@ hr {
 
 #tour-dates-background {
     background-image: url('../images/smokey.jpg');
-    
+    width: 100%;
+    height: auto;
+    background-size: cover;
 }
