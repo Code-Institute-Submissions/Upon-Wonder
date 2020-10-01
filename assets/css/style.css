@@ -170,8 +170,13 @@ footer {
 
 /* ------------------- about.html */
 
+.about-band-column {
+    padding: 50px;
+    background-color: rgb(220, 220, 227);
+}
+
 .band-member {
-    padding: 40px;
+    padding: 50px;
 }
 
 .member-photo img {
