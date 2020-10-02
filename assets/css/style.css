@@ -238,6 +238,13 @@ hr {
     margin: 50px 50px 50px 50px;
 }
 
+/*Padding for tour dates on small screens*/
+@media (max-width: 480px) { 
+    .tour-dates {
+        padding: 20px;
+    }
+}
+
 .tour-dates a {
     color: #fafafa;
     background-color: #DB3069;
@@ -258,4 +265,13 @@ hr {
 .tour-dates a:active {
     color: #DB3069;
     background-color: #fafafa;
+}
+
+
+.justify-right {
+    float: right;
+}
+
+.tour-dates li {
+    margin-bottom: 30px;
 }
