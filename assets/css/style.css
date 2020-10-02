@@ -41,6 +41,16 @@ a:active {
 
 /* ------------------- index.html*/
 
+.hero-image {
+    background-image: url("../images/band1.2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 775px;
+}
+
+
 #index-image {
     position: relative;
     overflow: hidden;
@@ -124,7 +134,7 @@ a:active {
     -o-transition: all 0.4s ease-in-out;
 }
 
-/*Ghost Button effect from https://www.developerdrive.com/8-simple-css-hover-effects/ but modified */
+/*Ghost Button effect in navbar from https://www.developerdrive.com/8-simple-css-hover-effects/ but modified */
 .navbar-nav a:hover {
     color: #DB3069!important;
     background: rgba(0,0,0,0);

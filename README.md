@@ -19,6 +19,7 @@
 ## Helpful tutorials for when getting stuck in coding
 - [Responsive embed](https://www.youtube.com/watch?v=HjAAC6BGp5c)
 - [Column reverse for smaller screens in bootstrap](https://www.youtube.com/watch?v=MkSn0GbocXw)
+- [Making my index background responsive to smaller screens](https://www.webfx.com/blog/web-design/responsive-background-image/)
 
 ### Content
 ### Media
