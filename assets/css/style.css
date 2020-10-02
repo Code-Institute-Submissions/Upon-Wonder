@@ -207,28 +207,6 @@ hr {
     color: #DB3069;
 }
 
-@media (max-width: 480px) {
-    .about-band-column {
-        padding: 20px;
-}   
-
-    .band-member {
-        font-size: 16px;
-        padding: 20px;
-    }
-
-    .about-band-column h5 {
-        font-size: 16px;
-    }
-
-    hr {
-    border: 2px solid #DB3069;
-    width: 100%;
-    margin-left: 0;
-}
-
-}
-
 /* ------------------- gallery.html */
 
 .gallery-text-column {
@@ -264,13 +242,6 @@ hr {
     margin: 50px 50px 50px 50px;
 }
 
-/*Padding for tour dates on small screens*/
-@media (max-width: 480px) { 
-    .tour-dates {
-        padding: 20px;
-    }
-}
-
 .tour-dates a {
     color: #fafafa;
     background-color: #DB3069;
@@ -300,4 +271,35 @@ hr {
 
 .tour-dates li {
     margin-bottom: 30px;
+}
+
+
+/* ------------------- media query */
+
+
+@media (max-width: 480px) {
+
+    .tour-dates {
+        padding: 20px;
+    }
+
+    .about-band-column {
+        padding: 20px;
+}   
+
+    .band-member {
+        font-size: 16px;
+        padding: 20px;
+    }
+
+    .about-band-column h5 {
+        font-size: 16px;
+    }
+
+    hr {
+    border: 2px solid #DB3069;
+    width: 100%;
+    margin-left: 0;
+}
+
 }
