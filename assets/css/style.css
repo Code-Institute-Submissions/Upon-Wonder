@@ -207,6 +207,18 @@ hr {
     color: #DB3069;
 }
 
+@media (max-width: 480px) {
+    .about-band-column {
+    padding: 20px;
+}
+
+    .band-member {
+        font-size: 16px;
+        padding: 20px;
+    }
+
+}
+
 /* ------------------- gallery.html */
 
 .gallery-text-column {
