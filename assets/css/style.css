@@ -69,23 +69,18 @@ a:active {
 }
 
 .image-zoom {
-	animation: zoominoutsinglefeatured 5s forwards;
+	animation: zoominoutsinglefeatured 2s forwards;
 }
 
 #index-logo-position {
-    position: absolute;
-    top: 20%;
-    left: 48.5%;
     width: 350px;
-    height: 350px;
-    margin-top: -175px;
-    margin-left: -175px;
+    margin: 0 auto;
 }
 
 #index-button {
-    position: absolute;
-    top: 75%;
-    left: 42%;
+    text-align: center;
+    position: relative;
+    top: 40%;
 }
 
 #index-button a {
