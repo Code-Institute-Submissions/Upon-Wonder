@@ -180,7 +180,10 @@ footer {
 }
 
 .member-photo {
-    margin-bottom: 50px
+    margin: 0 auto;
+    margin-bottom: 50px;
+    width: 320px; 
+    height: 320px;
 }
 
 .member-photo img {
