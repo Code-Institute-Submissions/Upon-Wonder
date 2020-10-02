@@ -15,7 +15,7 @@
     text-transform: uppercase;
 }
 
-/* ------------------- links */
+/* ------------------- all links */
 
 a:link {
   text-decoration: none;
@@ -120,7 +120,7 @@ a:active {
     -o-transition: all 0.4s ease-in-out;
 }
 
-/*Ghost Button effect in navbar from https://www.developerdrive.com/8-simple-css-hover-effects/ but modified */
+/*Ghost Button effect credited in README.md */
 .navbar-nav a:hover {
     color: #DB3069!important;
     background: rgba(0,0,0,0);
@@ -214,10 +214,10 @@ hr {
     padding-right: 0px;    
 }
 
-.gallery-margin {
+/*.gallery-margin {
     padding-left: 50px;
     padding-right: 50px;
-}
+}*/
 
 .video-column {
     padding: 0px 50px 50px 50px;
@@ -258,5 +258,4 @@ hr {
 .tour-dates a:active {
     color: #DB3069;
     background-color: #fafafa;
-
 }
