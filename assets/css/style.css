@@ -183,7 +183,6 @@ footer {
     margin: 0 auto;
     margin-bottom: 50px;
     width: 320px; 
-    height: 320px;
 }
 
 .member-photo img {
@@ -279,6 +278,18 @@ hr {
 .tour-hr {
     border: 1px solid rgb(231, 231, 231);
     width: 100%;
+}
+
+.text-section-map {
+    background: white;
+    padding: 50px;
+    margin: 0;
+}
+
+.map-section {
+    background: white;
+    padding: 50px;
+    margin: 0;
 }
 
 
