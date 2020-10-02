@@ -17,9 +17,10 @@
 - Zoom effect on index image made originally by [Bharat Karavadra](https://medium.com/@bharatkaravadra/how-to-create-a-css-zoom-in-out-effect-546654fb54e4) but modified.
 
 ## Helpful tutorials for when getting stuck in coding
-- [Responsive embed](https://www.youtube.com/watch?v=HjAAC6BGp5c)
-- [Column reverse for smaller screens in bootstrap](https://www.youtube.com/watch?v=MkSn0GbocXw)
-- [Making my index background responsive to smaller screens](https://www.webfx.com/blog/web-design/responsive-background-image/)
+- Responsive videos with help from[Dani Krossing](https://www.youtube.com/watch?v=HjAAC6BGp5c)
+- Column reverse for smaller screens in bootstrap with help from [Techno Sunita](https://www.youtube.com/watch?v=MkSn0GbocXw)
+- Making my index background responsive to smaller screens with help from [William Craig](https://www.webfx.com/blog/web-design/responsive-background-image/)
+- Making Image Slider with help from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2170s) and with help from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/) 
 
 ### Content
 ### Media
