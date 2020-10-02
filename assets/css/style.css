@@ -1,4 +1,4 @@
-/* ------------------- fonts and text */
+/* ------------------- fonts and text style */
 
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
@@ -33,7 +33,7 @@ a:active {
   text-decoration: none;
 }
 
-/* ------------------- body class*/
+/* ------------------- body class for about.html gallery.html and tourdates.html*/
 
 .head-space {
     padding-top: 76px;
@@ -51,11 +51,7 @@ a:active {
     min-height: 775px;
 }
 
-/*#index-image {
-    position: relative;
-    overflow: hidden;
-}*/
-
+/* zoom effect credited in README.md*/
 @keyframes zoominoutsinglefeatured {
     0% {
         transform: scale(1,1);
@@ -88,27 +84,22 @@ a:active {
     background-color: #DB3069;
     font-size: 24px;
     padding: 10px;
-    text-decoration: none;
     border-radius: 10px;
 }
 
 #index-button a:visited {
     color: #fafafa;
     background-color: #DB3069;
-    text-decoration: none;
 }
 
 #index-button a:hover {
     color: #DB3069;
     background-color: #fafafa;
-    text-decoration: none;
 }
 
 #index-button a:active {
     color: #DB3069;
     background-color: #fafafa;
-    text-decoration: none;
-
 }
 
 /* ------------------- header */
@@ -251,25 +242,21 @@ hr {
     color: #fafafa;
     background-color: #DB3069;
     padding: 5px;
-    text-decoration: none;
     border-radius: 10px;
 }
 
 .tour-dates a:visited {
     color: #fafafa;
     background-color: #DB3069;
-    text-decoration: none;
 }
 
 .tour-dates a:hover {
     color: #DB3069;
     background-color: #fafafa;
-    text-decoration: none;
 }
 
 .tour-dates a:active {
     color: #DB3069;
     background-color: #fafafa;
-    text-decoration: none;
 
 }
