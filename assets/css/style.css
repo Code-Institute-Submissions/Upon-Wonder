@@ -209,12 +209,16 @@ hr {
 
 @media (max-width: 480px) {
     .about-band-column {
-    padding: 20px;
-}
+        padding: 20px;
+}   
 
     .band-member {
         font-size: 16px;
         padding: 20px;
+    }
+
+    .about-band-column h5 {
+        font-size: 16px;
     }
 
 }
