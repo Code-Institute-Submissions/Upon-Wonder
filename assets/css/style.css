@@ -221,6 +221,12 @@ hr {
         font-size: 16px;
     }
 
+    hr {
+    border: 2px solid #DB3069;
+    width: 100%;
+    margin-left: 0;
+}
+
 }
 
 /* ------------------- gallery.html */
