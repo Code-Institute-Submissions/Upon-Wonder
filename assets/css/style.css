@@ -285,7 +285,7 @@ hr {
 /* ------------------- media query */
 
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
 
     .tour-dates {
         padding: 20px;
@@ -310,6 +310,11 @@ hr {
     border: 2px solid #DB3069;
     width: 100%;
     margin-left: 0;
-}
+    }
+
+    .tour-dates li {
+    margin-bottom: 40px;
+    display: block;
+    }
 
 }
