@@ -331,4 +331,9 @@ hr {
     display: block;
     }
 
+    .carousel-inner img {
+    height:300px;
+    object-fit: cover;
+}
+
 }
