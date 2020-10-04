@@ -215,15 +215,10 @@ hr {
     padding: 50px;
 }
 
-.carousel-inner im {
-    width: 100%;
-    height:100%
+.carousel-inner img {
+    height:500px;
+    object-fit: cover;
 }
-
-/*.gallery-margin {
-    padding-left: 50px;
-    padding-right: 50px;
-}*/
 
 .video-column {
     padding: 0px 50px 50px 50px;
