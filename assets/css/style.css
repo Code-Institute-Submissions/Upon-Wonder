@@ -170,6 +170,11 @@ footer {
 
 /* ------------------- about.html */
 
+.about-hero-img {
+    height: 500px;
+    object-fit: cover;
+}
+
 .about-band-column {
     padding: 50px;
     background-color: rgb(220, 220, 227);
