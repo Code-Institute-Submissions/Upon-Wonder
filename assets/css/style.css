@@ -172,7 +172,14 @@ footer {
 
 .about-hero-img {
     height: 500px;
-    object-fit: cover;
+    width: 100%;
+    background-image: url('../images/band2-cropped.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.about-hero-img img {
+    width: 100%;
 }
 
 .about-band-column {
@@ -187,11 +194,13 @@ footer {
 .member-photo {
     margin: 0 auto;
     margin-bottom: 50px;
-    width: 320px; 
+    /*width: 320px;*/
 }
 
 .member-photo img {
     border-radius: 50%;
+    width: 320px;
+    height: 320px;
 }
 
 hr {
@@ -339,6 +348,11 @@ hr {
     .carousel-inner img {
     height:300px;
     object-fit: cover;
+}
+
+.about-hero-img {
+    height: 300px;
+    background-size:cover;
 }
 
 }
