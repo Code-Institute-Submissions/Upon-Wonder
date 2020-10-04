@@ -281,7 +281,9 @@ hr {
 }
 
 .text-section-map {
-    background: white;
+    background: rgb(220, 220, 227);
+    text-align: center;
+    height: 350px;
     
 }
 
