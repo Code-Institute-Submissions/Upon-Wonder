@@ -179,7 +179,12 @@ footer {
 }
 
 .hero-img-logo {
-    width: 400px;
+    width: 450px;
+    margin-top: 180px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 .about-band-column {
@@ -353,6 +358,11 @@ hr {
 .about-hero-img {
     height: 300px;
     background-size:cover;
+}
+
+.hero-img-logo {
+    width: 350px;
+    margin-top: 250px;
 }
 
 }
