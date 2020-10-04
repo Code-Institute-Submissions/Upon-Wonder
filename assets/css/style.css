@@ -178,8 +178,8 @@ footer {
     background-size: cover;
 }
 
-.about-hero-img img {
-    width: 100%;
+.hero-img-logo {
+    width: 400px;
 }
 
 .about-band-column {
