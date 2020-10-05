@@ -25,7 +25,7 @@ viewer to do so. Additionaly there is also a text of copyright information.
 
 ### Index page
 The index page contains of a image of the band, the logo and a button. The purpose of this structure is to activate 
-the viewer by clicking on the button and evoke a feeling that an experience awaits on the other side of the page.
+the viewer to click on the button and evoke a feeling that an experience awaits on the other side of the page.
 
 ### About 
 The about page features a hero image of a concert from the audience's point of view, and a logo on top of the hero
