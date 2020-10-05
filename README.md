@@ -1,8 +1,31 @@
-# Milestone Project 1
+# Upon Wonder - The Band
+This is a website to promote the fictional band Upon Wonder, including videos, photos, information about each band 
+member, tour dates and a contact page to get in touch with the band. The goal for this page is to please both new and
+excisting fans from all over the world to satisfy their individual need of reaching the information they want when
+visiting the page.
+
+The main purpose of the website is to break all information into smaller peaces in to its own section to make it 
+easier for the viewer to find it without getting lost in sections he/she does not want to go to in first hand.
+
+The business aspect goals are the following:
+* Provide new and excisting fans with information about the band and upcoming tour dates.
+* 
+* 
 
 ## UX
 
+Wireframes
+
 ## Features
+The index page contains of a image of the band, the logo and a button. The purpose of this structure is to activate 
+the viewer by clicking on the button and evoke a feeling that an experience awaits on the other side of the page.
+
+Four out of five pages features a responsive navigation bar that contains the logo to the left and four options of wich
+page the viewer wants to go to.
+
+Each page has a footer with social media icons linking to the bands social media pages, and a text that encourage the
+viewer to do so.
+
 ### Existing Features
 ### Features Left to Implement
 
