@@ -232,6 +232,7 @@ hr {
 
 .gallery-text-column {
     padding: 50px;
+    background-color: rgb(220, 220, 227);
 }
 
 .carousel-inner img {
@@ -240,16 +241,13 @@ hr {
 }
 
 .video-column {
-    padding-bottom: 50px;
 }
 
 .video-text-column {
-    background-color: rgb(220, 220, 227);
     text-align: center;
     padding-top: 150px;
     padding-left: auto;
     padding-right: auto;
-    margin-bottom: 50px;
 }
 
 /* ------------------- tourdates.html */
