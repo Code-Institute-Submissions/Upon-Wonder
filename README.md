@@ -17,16 +17,36 @@ The business aspect goals are the following:
 Wireframes
 
 ## Features
-The index page contains of a image of the band, the logo and a button. The purpose of this structure is to activate 
-the viewer by clicking on the button and evoke a feeling that an experience awaits on the other side of the page.
-
-Four out of five pages features a responsive navigation bar that contains the logo to the left and four options of wich
+Four out of the five pages features a responsive navigation bar that contains the logo to the left and four options of wich
 page the viewer wants to go to.
 
 Each page has a footer with social media icons linking to the bands social media pages, and a text that encourage the
-viewer to do so.
+viewer to do so. Additionaly there is also a text of copyright information. 
 
-### Existing Features
+### Index page
+The index page contains of a image of the band, the logo and a button. The purpose of this structure is to activate 
+the viewer by clicking on the button and evoke a feeling that an experience awaits on the other side of the page.
+
+### About 
+The about page features a hero image of a concert from the audience's point of view, and a logo on top of the hero
+image. The page includes information about the band itself and how they came together and also a presentation of
+each band member with a member photograph each.
+
+### Gallery 
+### Tour Dates 
+The Tour Dates page starts of with an alert section to inform the visitor about the cancellation of the 2020 tour.
+The visitor also gets the information that you can reschedule their excisting tickets or get a refund followed by
+a link to ticketmasters webpage with information regarding the cancellation and rescheduling of live events.
+
+Under the alert the list of tour dates for the year of 2021 is presented. Each performance follows by a pink button
+with the text "tickets" that leads the visitor to a page where they can purchase tickets to the shows.
+
+Under the tour dates list, there are two columns where the one to the left contains a text that says 
+"Want to know where we're heading next? Check out the map!" and next to that column is a map to show where the next
+show will be.
+
+### Contact
+
 ### Features Left to Implement
 
 ## Technologies Used
