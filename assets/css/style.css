@@ -240,7 +240,16 @@ hr {
 }
 
 .video-column {
-    padding: 0px 50px 50px 50px;
+    padding-bottom: 50px;
+}
+
+.video-text-column {
+    background-color: rgb(220, 220, 227);
+    text-align: center;
+    padding-top: 150px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-bottom: 50px;
 }
 
 /* ------------------- tourdates.html */
