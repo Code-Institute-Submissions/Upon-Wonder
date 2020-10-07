@@ -63,7 +63,8 @@ show will be.
 - Responsive videos with help from[Dani Krossing](https://www.youtube.com/watch?v=HjAAC6BGp5c)
 - Column reverse for smaller screens in bootstrap with help from [Techno Sunita](https://www.youtube.com/watch?v=MkSn0GbocXw)
 - Making my index background responsive to smaller screens with help from [William Craig](https://www.webfx.com/blog/web-design/responsive-background-image/)
-- Making Image Slider with help from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2170s) and with help from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/) 
+- Making Image Slider with help from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2170s) and with help from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/)
+- Absolute Centering of index button with help from [Manisha Basra](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
 
 ### Content
 ### Media
