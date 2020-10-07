@@ -33,6 +33,13 @@ a:active {
   text-decoration: none;
 }
 
+/* ------------------- html*/
+
+html {
+    position: relative;
+    min-height: 100%
+}
+
 /* ------------------- body class for about.html gallery.html and tourdates.html*/
 
 .head-space {
@@ -144,7 +151,9 @@ a:active {
 
 /* ------------------- footer */
 
-footer {
+.footer {
+    position: absolute;
+    bottom: 0;
     background-color: #0A014F;
     color: #fafafa!important;
     min-height: 70px;
@@ -244,9 +253,9 @@ hr {
     object-fit: cover;
 }
 
-.video-column-1 {
+/*.video-column-1 {
     
-}
+}*/
 
 .video-row {
     padding-top: 50px;
