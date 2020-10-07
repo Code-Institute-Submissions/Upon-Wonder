@@ -244,8 +244,13 @@ hr {
     object-fit: cover;
 }
 
-.video-column {
+.video-column-1 {
+    
+}
 
+.video-row {
+    padding-top: 50px;
+    padding-bottom: 25px;
 }
 
 .video-text-column {
