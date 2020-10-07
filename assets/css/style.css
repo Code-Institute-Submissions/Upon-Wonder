@@ -40,15 +40,16 @@ html {
     min-height: 100%;
 }
 
+/* ------------------- body*/
+
 body {
-    
+    padding-bottom: 107px;
 }
 
 /* ------------------- body class for about.html gallery.html and tourdates.html*/
 
 .head-space {
     padding-top: 76px;
-    padding-bottom: 107px;
 }
 
 /* ------------------- index.html*/
