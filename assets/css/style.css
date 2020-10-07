@@ -271,6 +271,14 @@ hr {
 
 /* ------------------- tourdates.html */
 
+.tour-dates-hero {
+    height: 500px;
+    width: 100%;
+    background-image: url('../images/smokey.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
 .tour-dates {
     background: rgb(220, 220, 227);
     padding: 50px;
