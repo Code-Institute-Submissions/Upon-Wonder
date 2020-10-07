@@ -235,6 +235,10 @@ hr {
     background-color: rgb(220, 220, 227);
 }
 
+.gallery-text-column a {
+    color: rgb(50, 50, 50);
+}
+
 .carousel-inner img {
     height:500px;
     object-fit: cover;
