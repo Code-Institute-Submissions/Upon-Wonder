@@ -271,15 +271,8 @@ hr {
 
 /* ------------------- tourdates.html */
 
-#tour-dates-background {
-    background-image: url('../images/smokey.jpg');
-    width: 100%;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
 .tour-dates {
-    background: white;
+    background: rgb(220, 220, 227);
     padding: 50px;
     margin: 50px 50px 50px 50px;
 }
@@ -309,7 +302,6 @@ hr {
     background-color: #fafafa;
     border: 2px solid #DB3069;
 }
-
 
 .justify-right {
     float: right;
