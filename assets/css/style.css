@@ -375,6 +375,10 @@ hr {
     #index-logo-position {
         width: 300px;
     }
+
+    #index-button a {
+        font-size: 18px;
+    }
 }
 
 @media (max-width: 600px) {
