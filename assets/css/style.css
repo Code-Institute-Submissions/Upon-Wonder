@@ -62,6 +62,7 @@ body {
     width: 100%;
     background-color: #0A014F;
     min-height: 100vh;
+    position: relative;
 }
 
 /* zoom effect credited in README.md*/
@@ -87,8 +88,10 @@ body {
 }
 
 #index-button {
-    text-align: center;
-    margin-bottom: 20%;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 #index-button a {
@@ -370,7 +373,7 @@ hr {
 @media (max-width: 575px) {
 
     #index-logo-position {
-    width: 300px;
+        width: 300px;
     }
 }
 
@@ -396,29 +399,29 @@ hr {
     }
 
     hr {
-    border: 2px solid #DB3069;
-    width: 100%;
-    margin-left: 0;
+        border: 2px solid #DB3069;
+        width: 100%;
+        margin-left: 0;
     }
 
     .tour-dates li {
-    margin-bottom: 40px;
-    display: block;
+        margin-bottom: 40px;
+        display: block;
     }
 
     .carousel-inner img {
-    height:300px;
-    object-fit: cover;
+        height:300px;
+        object-fit: cover;
     }
 
     .about-hero-img {
-    height: 300px;
-    background-size:cover;
+        height: 300px;
+        background-size:cover;
     }
 
     .hero-img-logo {
-    width: 350px;
-    margin-top: 250px;
+        width: 350px;
+        margin-top: 250px;
     }
 
     .video-column {
@@ -444,15 +447,15 @@ hr {
     }
 
     .video-text-column h2 {
-    top: 10%;
-    right: 0;
-    left: 0;
+        top: 10%;
+        right: 0;
+        left: 0;
     }
 
     .video-text-column h4 {
-    top: 30%;
-    right: 0;
-    left: 0;
+        top: 30%;
+        right: 0;
+        left: 0;
     }
 
 }
