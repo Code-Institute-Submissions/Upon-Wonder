@@ -367,36 +367,6 @@ hr {
 
 /* ------------------- media query */
 
-@media (max-width: 768px) {
-
-    .tour-dates {
-        padding: 20px;
-        margin-left: 20px;
-        margin-right: 20px;
-    }
-
-    .video-column {
-        padding-bottom: 50px;
-    }
-
-    .video-text-column {
-        height: 150px;
-    }
-
-    .video-text-column h2 {
-    top: 10%;
-    right: 0;
-    left: 0;
-    }
-
-    .video-text-column h4 {
-    top: 30%;
-    right: 0;
-    left: 0;
-    }
-
-}
-
 @media (max-width: 575px) {
 
     #index-logo-position {
@@ -453,6 +423,36 @@ hr {
 
     .video-column {
         padding-bottom: 50px;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .tour-dates {
+        padding: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .video-column {
+        padding-bottom: 50px;
+    }
+
+    .video-text-column {
+        height: 150px;
+    }
+
+    .video-text-column h2 {
+    top: 10%;
+    right: 0;
+    left: 0;
+    }
+
+    .video-text-column h4 {
+    top: 30%;
+    right: 0;
+    left: 0;
     }
 
 }
