@@ -284,6 +284,7 @@ hr {
 .tour-dates a {
     color: #fafafa;
     background-color: #DB3069;
+    border: 2px solid #DB3069;
     padding: 5px;
     border-radius: 10px;
 }
@@ -291,16 +292,19 @@ hr {
 .tour-dates a:visited {
     color: #fafafa;
     background-color: #DB3069;
+    border: 2px solid #DB3069;
 }
 
 .tour-dates a:hover {
     color: #DB3069;
     background-color: #fafafa;
+    border: 2px solid #DB3069;
 }
 
 .tour-dates a:active {
     color: #DB3069;
     background-color: #fafafa;
+    border: 2px solid #DB3069;
 }
 
 
