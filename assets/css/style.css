@@ -82,14 +82,13 @@ body {
 }
 
 #index-logo-position {
-    width: 350px;
+    width: 500px;
     margin: 0 auto;
 }
 
 #index-button {
     text-align: center;
-    position: relative;
-    top: 40%;
+    margin-bottom: 20%;
 }
 
 #index-button a {
@@ -396,6 +395,13 @@ hr {
     left: 0;
     }
 
+}
+
+@media (max-width: 575px) {
+
+    #index-logo-position {
+    width: 300px;
+    }
 }
 
 @media (max-width: 600px) {
