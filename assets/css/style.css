@@ -267,13 +267,14 @@ hr {
 }
 
 .video-row {
-    padding: 50px;
+    padding: 30px 50px 30px 50px;
     margin-right: -0px;
     margin-left: -0px;
 }
 
 .video-text-column {
-    padding: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 /* margins to fix bug in row wider than window*/
