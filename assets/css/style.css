@@ -450,29 +450,14 @@ hr {
 
     .video-row {
         padding: 20px;
-        margin-top: 0px;
-        margin-bottom: 20px;
 }
 
     .video-text-column {
         padding: 20px;
+        height: 120px;
     }
 
-    .video-text-column {
-        height: 150px;
-    }
-
-    .video-text-column h2 {
-        top: 10%;
-        right: 0;
-        left: 0;
-    }
-
-    .video-text-column h4 {
-        top: 30%;
-        right: 0;
-        left: 0;
-    }
+    
 
 }
 
