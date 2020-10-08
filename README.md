@@ -85,8 +85,9 @@ div and put in some extra css on the specific areas that where affected to elimi
     - Picture of Jenna by [Miguel Ángel Hernández](https://unsplash.com/photos/iJV_Vqe9su4)
     - Picture of Laura by [Kal Visuals](https://unsplash.com/photos/fEbgg7USu3E)
     - Picture of Maya by [Anton Mislawsky](https://unsplash.com/photos/1B7vFqOn6og)
-    - Gallery photo of stage by [Yvette de Wit](https://unsplash.com/photos/Kcx_YuUR-dw)
-    - Gallery photo of  by []()
+    - Gallery photo of crowd by [Yvette de Wit](https://unsplash.com/photos/Kcx_YuUR-dw)
+    - Gallery photo of black shoes on stage by [Robbie Noble](https://unsplash.com/photos/hSygsHzG9ok)
+    - Gallery phoyo of stage by [Maxime Lebrun](https://unsplash.com/photos/l8h1hXBvzkQ) 
 
 - Logo made with the free technology of [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
 - Video in gallery.html borrowed with premission from [Da SHU](https://www.youtube.com/channel/UC8pmgHZnw2wO4djy1Ur3umA/videos)
