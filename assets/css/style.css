@@ -130,6 +130,7 @@ body {
 /*Ease in and out effect from Resume project*/
 .navbar-nav a {
     color: #fafafa!important;
+    padding-left: 5px!important;
     letter-spacing: 2px;
     transition: all 0.4s ease-in-out;
     -moz-transition: all 0.4s ease-in-out;
@@ -142,10 +143,12 @@ body {
     color: #DB3069!important;
     background: rgba(0,0,0,0);
 	box-shadow: inset 0 0 0 2px #DB3069;
+    padding-left: 5px;
 }
 
 .navbar-nav .active {
     color: #DB3069!important;
+    padding-left: 5px;
 }
 
 .navbar-toggler {
