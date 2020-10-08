@@ -55,7 +55,7 @@ show will be.
 ### Bugs and fixes
 * I noticed that the gallery-text-collumn in gallery.html became wider than the screen 
 length after I decided to change the layout of the page. The margins on the left and right
-where set to -15 despite the fact that I had a css style that automatically would erase that
+where set to -15 despite the fact that I had no-gutters class and a css style that automatically would erase that
 on all rows. This led me to google to try to solve this, but despite the tips I found there to try
 to remove this problem it wouldn't work. I simply solved the bug by putting all text in its own
 div and put in some extra css on the specific areas that where affected to eliminate the extra margins.
@@ -79,6 +79,15 @@ div and put in some extra css on the specific areas that where affected to elimi
 ### Content
 ### Media
 - Pictures borrowed for free from [Unsplash](https://unsplash.com/).
+    - Index photo and hero image on about page by [Alexander Jawfox](https://unsplash.com/photos/MkgeKMXCPnw)
+    - Picture of Emma by [Ussama Azam](https://unsplash.com/photos/cwmSqgnwbxg)
+    - Picture of Sarah by [Alexey Turenkov](https://unsplash.com/photos/M43Qs4FkgiM)
+    - Picture of Jenna by [Miguel Ángel Hernández](https://unsplash.com/photos/iJV_Vqe9su4)
+    - Picture of Laura by [Kal Visuals](https://unsplash.com/photos/fEbgg7USu3E)
+    - Picture of Maya by [Anton Mislawsky](https://unsplash.com/photos/1B7vFqOn6og)
+    - Gallery photo of stage by [Yvette de Wit](https://unsplash.com/photos/Kcx_YuUR-dw)
+    - Gallery photo of  by []()
+
 - Logo made with the free technology of [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
 - Video in gallery.html borrowed with premission from [Da SHU](https://www.youtube.com/channel/UC8pmgHZnw2wO4djy1Ur3umA/videos)
 ### Acknowledgements
