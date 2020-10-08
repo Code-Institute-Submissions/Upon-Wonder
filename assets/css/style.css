@@ -1,3 +1,5 @@
+/* -------------------------------------------------------- Fonts, row margin, all links */
+
 /* ------------------- fonts and text style */
 
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
@@ -14,6 +16,13 @@
 .uppercase {
     text-transform: uppercase;
 }
+
+/* ------------------- row margin */
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+ } 
 
 /* ------------------- all links */
 
@@ -33,6 +42,10 @@ a:active {
   text-decoration: none;
 }
 
+
+
+/* -------------------------------------------------------- html, body, header, footer */
+
 /* ------------------- html*/
 
 html {
@@ -48,11 +61,78 @@ body {
     
 }
 
-/* ------------------- body class for about.html gallery.html and tourdates.html*/
+/* ------------------- body class .head-space */
 
 .head-space {
     padding-top: 76px;
 }
+
+/* ------------------- header */
+
+.bg-dark {
+    background-color: #0A014F!important;
+    font-family: 'Unica One', sans-serif;
+    font-size: 150%;
+}
+
+/*Ease in and out effect from Resume project*/
+.navbar-nav a {
+    color: #fafafa!important;
+    padding-left: 5px!important;
+    letter-spacing: 2px;
+    transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+/*Ghost Button effect credited in README.md */
+.navbar-nav a:hover {
+    color: #DB3069!important;
+    background: rgba(0,0,0,0);
+	box-shadow: inset 0 0 0 2px #DB3069;
+    padding-left: 5px;
+}
+
+.navbar-nav .active {
+    color: #DB3069!important;
+    padding-left: 5px;
+}
+
+.navbar-toggler {
+    border-color: #0A014F!important;
+}
+
+/* ------------------- footer */
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    background-color: #0A014F;
+    color: #fafafa!important;
+    min-height: 107px;
+}
+
+.social-icon i {
+    font-size: 30px;
+    color: #fafafa;
+    padding-left: 10px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-icon i:hover {
+    color: #DB3069;
+}
+
+#footer-content {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* -------------------------------------------------------- all html files*/
 
 /* ------------------- index.html*/
 
@@ -119,78 +199,6 @@ body {
     background-color: #fafafa;
 }
 
-/* ------------------- header */
-
-.bg-dark {
-    background-color: #0A014F!important;
-    font-family: 'Unica One', sans-serif;
-    font-size: 150%;
-}
-
-/*Ease in and out effect from Resume project*/
-.navbar-nav a {
-    color: #fafafa!important;
-    padding-left: 5px!important;
-    letter-spacing: 2px;
-    transition: all 0.4s ease-in-out;
-    -moz-transition: all 0.4s ease-in-out;
-    -webkit-transition: all 0.4s ease-in-out;
-    -o-transition: all 0.4s ease-in-out;
-}
-
-/*Ghost Button effect credited in README.md */
-.navbar-nav a:hover {
-    color: #DB3069!important;
-    background: rgba(0,0,0,0);
-	box-shadow: inset 0 0 0 2px #DB3069;
-    padding-left: 5px;
-}
-
-.navbar-nav .active {
-    color: #DB3069!important;
-    padding-left: 5px;
-}
-
-.navbar-toggler {
-    border-color: #0A014F!important;
-}
-
-/* ------------------- row margin */
-
-.row {
-    margin-left: -15px;
-    margin-right: -15px;
- } 
-
-/* ------------------- footer */
-
-.footer {
-    position: absolute;
-    bottom: 0;
-    background-color: #0A014F;
-    color: #fafafa!important;
-    min-height: 107px;
-}
-
-.social-icon i {
-    font-size: 30px;
-    color: #fafafa;
-    padding-left: 10px;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-icon i:hover {
-    color: #DB3069;
-}
-
-#footer-content {
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
 /* ------------------- about.html */
 
 .about-hero {
@@ -222,7 +230,6 @@ body {
 .member-photo {
     margin: 0 auto;
     margin-bottom: 50px;
-    /*width: 320px;*/
 }
 
 .member-photo img {
@@ -366,7 +373,11 @@ hr {
     
 }
 
-/* ------------------- media query */
+
+
+/* -------------------------------------------------------- media query*/
+
+/* ------------------- max-width: 575px */
 
 @media (max-width: 575px) {
 
@@ -378,6 +389,9 @@ hr {
         font-size: 18px;
     }
 }
+
+
+/* ------------------- max-width: 600px */
 
 @media (max-width: 600px) {
 
@@ -454,6 +468,9 @@ hr {
 
 }
 
+
+/* ------------------- max-width: 768px */
+
 @media (max-width: 768px) {
 
     .social-icon i {
@@ -483,6 +500,9 @@ hr {
     
 
 }
+
+
+/* ------------------- max-width: 991px */
 
 @media (max-width: 991px) {
     .body {
