@@ -387,7 +387,10 @@ hr {
     background-size: cover;
 }
 
-
+.contact-header-text {
+    padding: 50px;
+    background-color: rgb(220, 220, 227);
+}
 
 
 /* -------------------------------------------------------- media query*/
