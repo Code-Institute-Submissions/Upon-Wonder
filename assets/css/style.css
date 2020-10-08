@@ -295,6 +295,10 @@ hr {
 
 /* ------------------- tourdates.html */
 
+.alert p {
+    margin-bottom: 0px;
+}
+
 .tour-dates-hero {
     height: 500px;
     width: 100%;
@@ -427,6 +431,13 @@ hr {
     }
 
     /* tourdates.html */
+
+    .alert {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 15px;
+    }
+
     .tour-dates li {
         margin-bottom: 40px;
         display: block;
