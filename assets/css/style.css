@@ -297,10 +297,13 @@ hr {
     background-size: cover;
 }
 
-.tour-dates {
-    background: rgb(220, 220, 227);
+.tour-dates-column {
     padding: 50px;
-    margin: 50px 50px 50px 50px;
+    background-color: rgb(220, 220, 227);
+}
+
+.tour-dates {
+    padding: 30px 50px 30px 50px;
 }
 
 .tour-dates a {
