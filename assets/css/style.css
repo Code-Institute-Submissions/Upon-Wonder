@@ -444,7 +444,7 @@ hr {
     }
 
     .body {
-        margin-bottom: 107px;
+        margin-bottom: 124px;
     }
 
     .tour-dates {
@@ -480,3 +480,10 @@ hr {
     }
 
 }
+
+@media (max-width: 991px) {
+    .body {
+        margin-bottom: 124px;
+    }
+}
+
