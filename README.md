@@ -87,8 +87,16 @@ div and put in some extra css on the specific areas that where affected to elimi
     - Picture of Maya by [Anton Mislawsky](https://unsplash.com/photos/1B7vFqOn6og)
     - Gallery photo of crowd by [Yvette de Wit](https://unsplash.com/photos/Kcx_YuUR-dw)
     - Gallery photo of black shoes on stage by [Robbie Noble](https://unsplash.com/photos/hSygsHzG9ok)
-    - Gallery phoyo of stage by [Maxime Lebrun](https://unsplash.com/photos/l8h1hXBvzkQ) 
+    - Gallery photo of stage by [Maxime Lebrun](https://unsplash.com/photos/l8h1hXBvzkQ)
+    - Gallery photo of girl singing by [Eduardo Balderas](https://unsplash.com/photos/AfEAFwmQzMc)
+    - Hero image on tour dates page by [Andre Benz](https://unsplash.com/photos/5TJ_80AZCno)
+    - Hero image on contact page by [Drew Beamer](https://unsplash.com/photos/3SIXZisims4)
 
 - Logo made with the free technology of [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
-- Video in gallery.html borrowed with premission from [Da SHU](https://www.youtube.com/channel/UC8pmgHZnw2wO4djy1Ur3umA/videos)
+- Embeded map possible with help from [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE)
+- Embeded videos from [Youtube](https://www.youtube.com/) 
+    - First video in gallery.html borrowed with premission from [Da SHU](https://www.youtube.com/channel/UC8pmgHZnw2wO4djy1Ur3umA/videos)
+    - Second video in gallery borrowed with premission from [Euphoric Eugene](https://www.youtube.com/watch?v=PWMTDRWJqu4&feature=emb_logo)
+    - Third video in gallery borrowed with premission from [Euphoric Eugene](https://www.youtube.com/watch?v=XccPsuqAz4E&feature=emb_logo)
+
 ### Acknowledgements
