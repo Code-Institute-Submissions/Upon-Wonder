@@ -60,7 +60,7 @@ on all rows. This led me to google to try to solve this, but despite the tips I 
 to remove this problem it wouldn't work. I simply solved the bug by putting all text in its own
 div and put in some extra css on the specific areas that where affected to eliminate the extra margins.
 
-* 
+*
 
 
 ## Deployment
