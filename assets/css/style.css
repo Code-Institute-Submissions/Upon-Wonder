@@ -381,10 +381,6 @@ hr {
 
 @media (max-width: 600px) {
 
-    .tour-dates {
-        padding: 20px;
-    }
-
     .about-band-column {
         padding: 20px;
     }   
@@ -414,14 +410,14 @@ hr {
         object-fit: cover;
     }
 
-    .about-hero-img {
+    .about-hero {
         height: 300px;
         background-size:cover;
     }
 
-    .hero-img-logo {
-        width: 350px;
-        margin-top: 250px;
+    .about-hero img {
+        width: 270px;
+        margin-top: 100px;
     }
 
     .gallery-text-column {
@@ -447,6 +443,9 @@ hr {
     .tour-dates {
         padding: 20px;
     }
+
+    .tour-dates-column {
+    padding: 20px;
 
     .video-row {
         padding: 20px;
