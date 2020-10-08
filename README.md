@@ -52,6 +52,16 @@ show will be.
 ## Technologies Used
 
 ## Testing
+### Bugs and fixes
+* I noticed that the gallery-text-collumn in gallery.html became wider than the screen 
+length after I decided to change the layout of the page. The margins on the left and right
+where set to -15 despite the fact that I had a css style that automatically would erase that
+on all rows. This led me to google to try to solve this, but despite the tips I found there to try
+to remove this problem it wouldn't work. I simply solved the bug by putting all text in its own
+div and put in some extra css on the specific areas that where affected to eliminate the extra margins.
+
+* 
+
 
 ## Deployment
 
