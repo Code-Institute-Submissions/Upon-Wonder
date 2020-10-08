@@ -363,10 +363,6 @@ hr {
 
 @media (max-width: 575px) {
 
-    .body {
-        margin-bottom: 107px;
-    }
-
     #index-logo-position {
         width: 300px;
     }
@@ -377,10 +373,6 @@ hr {
 }
 
 @media (max-width: 600px) {
-
-    .body {
-        margin-bottom: 107px;
-    }
 
     .tour-dates {
         padding: 20px;
