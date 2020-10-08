@@ -433,6 +433,21 @@ hr {
         background-size:cover;
     }
 
+    .text-section-map {
+        height: 250px;
+    }
+
+    .heading-next-text {
+        margin-top: 70px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .map-section {
+    height: 250px;
+    
+    }
+
 }
 
 @media (max-width: 768px) {
