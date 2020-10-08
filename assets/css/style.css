@@ -378,6 +378,18 @@ hr {
 
 
 
+/* ------------------- contact.html*/
+.contact-hero {
+    height: 500px;
+    width: 100%;
+    background-image: url('../images/hello.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+
 /* -------------------------------------------------------- media query*/
 
 /* ------------------- max-width: 575px */
