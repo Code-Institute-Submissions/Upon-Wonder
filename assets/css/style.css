@@ -229,13 +229,12 @@ body {
 
 .member-photo {
     margin: 0 auto;
-    margin-bottom: 50px;
 }
 
 .member-photo img {
     border-radius: 50%;
-    width: 320px;
-    height: 320px;
+    width: 280px;
+    height: 280px;
 }
 
 hr {
