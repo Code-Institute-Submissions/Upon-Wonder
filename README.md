@@ -20,28 +20,27 @@ in the project use as well.
 View the project live here.
 
 
-## UX
+## UX/UI
 The main purpose of the website is to break all information into smaller peaces in to its own pages to make it 
 easier for the visitor to find it without getting lost in sections he/she does not want to go to in the first place.
 The ideal visitor for this web page is not only fans that already know about the band, but also people who are
 interested in finding out more about the band to eventually become a fan.
 
-### UX Goals
+### UX/UI Goals
 * Make navigation easy and clear for any visitor with good UX structure.
 * Customize the web page to be fully responsive to fit all devices.
-* Reflect the band's image through good color choices and fonts that accompany all pages of the website.
+* Reflect the band's image through good color choices and fonts that accompany to all pages of the website.
 
 ### Visitor Goals
-* Provide visitors with information about the band itself.
-* Provide visitors with information about uppcoming tour dates.
-* Provide the visitor with high quality images and videos of the band.
-* 
+* Get information about the band itself.
+* Get information about uppcoming tour dates.
+* Get access to view high quality images and videos of the band.
+* Be able to send a message to the band.
 
 ### Design Process
 1. When I had decided about making a website for a band I started of by searching the internet for inspiration. I 
 already had a brief idea of what the website structure was going to be, now I only had to come up with a theme and
 pictures to work with.
-
 I ended up on [Unsplash](https://unsplash.com/) where I searched for potential images of people who looked like they
 could be in a band, and found [this](https://unsplash.com/photos/MkgeKMXCPnw) picture. I was hooked and the theme
 was set. I would make a website about a popular girlband touring the whole world.
@@ -51,14 +50,30 @@ the index page simple with a fixed background image, logo and a button which the
 "main paige" with all other information. This was to create a feeling in the visitor that they have now entered the world 
 of the band.
 
-Link to wireframes here.
+[Index.html Wireframe](assets/wireframe/index-wireframe.png)
 
 3. I also had to come up with a logo for the band. I ended up finding the website [Hatchful](https://hatchful.shopify.com/onboarding/pick-space)
 to create my logo and have used that all through my page.
 
-4. Since the planning process as a developer is new to me, I realized quite quickly when I started building the 
+4. To come up with the color scheme for the website I used the generating function of [Coolors](https://coolors.co/).
+And the colors I ended up with and used for the entire page was the following:
+
+- #0A014F (The dark blue color used in navbar and footer)
+- #DB3069 (The bright pink color used on all buttons)
+- rgb(220, 220, 227) (The light blue color used as background to the heading text on all pages)
+
+5. Since the planning process as a developer is new to me, I realized quite quickly when I started building the 
 website in code that the structure I made in Wireframes would not last in the end. The lack of continuity of the different
 pages of the website was clear which led me to make changes to my original idea throughout the project.
+The changes included the following:
+- Adding a footer to the index page, to make the access to social links easier without having to go to the next page.
+- Move the navbar links to the right to get a better balance to it.
+- Adding hero images to all pages for a continuous feeling throughout the page.
+- Change the image gallery layout to an image slider working as a hero image for the gallery page. For a cleaner look.
+- Adding videos to the gallery for some variety in the media content.
+- Making the tour dates page more similar in structure as the rest of the pages with the hero image and header text.
+- Adding a map to the tour date page.
+- Adding a contact page for fans to be able to send a message to the band.
 
 
 
