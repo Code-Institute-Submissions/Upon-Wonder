@@ -586,13 +586,17 @@ input:focus, textarea:focus {
     
     /* footer */
     .social-icon i {
-        padding-left: 0px;
+        font-size: 25px;
+        padding-left: 2px;
     }
 
     /* tourdates.html */
     .tour-dates {
         padding: 20px;
     }
+
+    .tour-dates-column {
+    padding: 20px;
 
     .video-row {
         padding: 20px;
