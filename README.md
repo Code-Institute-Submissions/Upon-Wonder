@@ -165,7 +165,6 @@ the cause I was able to correct the issue by putting the button to a z-index of 
 Deploying the project
 
 ## Credits
-
 ### Content
 As mentioned in the beginning of this readme, the band Upon Wonder is a fictional band and does not excist in real life.
 All text on this website was written by me.
@@ -194,25 +193,22 @@ Embeded videos borrowed for free from [Vimeo](https://www.vimeo.com/).
 - Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324) (Royalty Free Video)
 
 ### Acknowledgements
-#### Helpful pages used
+#### Pages used to find information
 - [W3C Schools](https://www.w3schools.com/)
 - [W3C](https://www.w3.org/)
 - [Codepen](https://codepen.io/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Make a Readme](https://www.makeareadme.com)
+- [jQuery](https://jquery.com/)
 
-#### Specificly good tutorials for this project
+#### Code
 - Hovering effect in navbar made originally by [Sara Vieira](https://www.developerdrive.com/8-simple-css-hover-effects/) but modified.
-- Zoom effect on index image made originally by [Bharat Karavadra](https://medium.com/@bharatkaravadra/how-to-create-a-css-zoom-in-out-effect-546654fb54e4) but modified.
-- Responsive videos with help from [Dani Krossing](https://www.youtube.com/watch?v=HjAAC6BGp5c)
-- Column reverse for smaller screens in bootstrap with help from [Techno Sunita](https://www.youtube.com/watch?v=MkSn0GbocXw)
+- Zoom effect on index logo made originally by [Bharat Karavadra](https://medium.com/@bharatkaravadra/how-to-create-a-css-zoom-in-out-effect-546654fb54e4) but modified.
 - Making my index background responsive to smaller screens with help from [William Craig](https://www.webfx.com/blog/web-design/responsive-background-image/)
-- Making Image Slider with help from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2170s) and with help from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/)
-- Absolute Centering of index button with help from [Manisha Basra](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
+- Making Image Slider with help from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2170s) and [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/)
 
 #### Thank you
 Thank you to the following people:
-
 - My mentor Seun Owonikoko.
 - My friend and fellow Code Institute study buddy Qim.
 - Friends and family for their patient with me coding all day.

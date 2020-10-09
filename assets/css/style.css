@@ -428,6 +428,10 @@ input:focus, textarea:focus {
     border: 1px solid rgb(220, 220, 227);
 }
 
+.company-checkbox-text {
+    font-size: 13px;
+}
+
 .submit-button {
     color: #fafafa;
     background-color: #DB3069;
