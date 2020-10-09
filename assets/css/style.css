@@ -393,12 +393,14 @@ hr {
 }
 
 .message-us-text {
-    padding: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
 .contact-form {
-    padding: 30px 50px 50px 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
     text-align: center;
 }
 
@@ -562,6 +564,14 @@ input:focus, textarea:focus {
         font-size: 16px;
     }
 
+    .input-info {
+        width: 90%;
+    }
+
+    .textarea {
+        width: 90%;
+    }
+
 }
 
 
@@ -594,7 +604,15 @@ input:focus, textarea:focus {
         height: 120px;
     }
 
-    
+    /* contact-html*/
+
+    .input-info {
+        width: 80%;
+    }
+
+    .textarea {
+        width: 80%;
+    }
 
 }
 
@@ -607,5 +625,6 @@ input:focus, textarea:focus {
     .body {
         margin-bottom: 124px;
     }
+
 }
 
