@@ -394,16 +394,16 @@ hr {
 
 .message-us-text {
     padding: 50px;
-    margin: 0 auto;
+    text-align: center;
 }
 
 .contact-form {
     padding: 30px 50px 50px 50px;
-    margin: 0 auto;
+    text-align: center;
 }
 
 .input-info {
-    width: 200%;
+    width: 50%;
     border: 1px solid rgb(220, 220, 227);
     border-radius: 3px;
     padding: 7px;
@@ -412,7 +412,7 @@ hr {
 }
 
 .textarea {
-    width: 200%;
+    width: 50%;
     border: 1px solid rgb(220, 220, 227);
     padding: 7px;
     border-radius: 3px;
@@ -433,7 +433,6 @@ input:focus, textarea:focus {
     border: 1px solid #DB3069;
     border-radius: 10px;
 }
-
 
 
 /* -------------------------------------------------------- media query*/
