@@ -38,6 +38,10 @@ different images as an alternative to a photo gallery.
 
 Under the image slider three different videos
 
+**Note!** This band is fictional and do not excist in real life. Therefore the videos used are only an example of
+how videos will look like in this layout. The videos are free to use and the video makers are credited in the 
+credit section of this readme file.
+
 ### Tour Dates 
 The Tour Dates page starts of with an alert section to inform the visitor about the cancellation of the 2020 tour.
 The visitor also gets the information that you can reschedule their excisting tickets or get a refund followed by
@@ -100,8 +104,8 @@ div and put in some extra css on the specific areas that where affected to elimi
 - Logo made with the free technology of [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
 - Embeded map possible with help from [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE)
 - Embeded videos from [Vimeo](https://www.vimeo.com/) 
-    - First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734)
-    - Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779)
-    - Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324)
+    - First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734) (Royalty Free Video)
+    - Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779) (Royalty Free Video)
+    - Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324) (Royalty Free Video)
 
 ### Acknowledgements
