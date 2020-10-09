@@ -94,8 +94,9 @@ of this structure is to activate the viewer to click on the button and evoke a f
 on the other side of the page. When you click the button you will go to the about page.
 
 ### About 
-The about page features a hero image of the band again, and a logo on top of the hero image. The page includes 
-a heading text with the title of the page, information about the band itself and also 
+The Tour Dates page starts of with an alert section on top of a hero image of the band to inform the visitor about 
+the new merchandise that is to be released. The hero image also has a logo on top of it (not visible on phone devices). 
+The page includes a heading text with the title of the page, information about the band itself and also 
 a presentation of each band member together with an image of them each.
 
 ### Gallery 
