@@ -132,7 +132,7 @@ body {
     padding-bottom: 30px;
 }
 
-/* -------------------------------------------------------- all html files*/
+/* -------------------------------------------------------- html pages*/
 
 /* ------------------- index.html*/
 
@@ -390,6 +390,32 @@ hr {
 .contact-header-text {
     padding: 50px;
     background-color: rgb(220, 220, 227);
+}
+
+.message-us-text {
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.contact-form {
+    padding: 30px 50px 50px 50px;
+    margin: 0 auto;
+}
+
+.input-info {
+    width: 200%;
+    border: 1px solid rgb(220, 220, 227);
+    border-radius: 3px;
+    padding: 7px;
+    font-family: 'roboto', sans-serif;
+    
+}
+
+.textarea {
+    width: 200%;
+    border: 1px solid rgb(220, 220, 227);
+    padding: 7px;
+    font-family: 'roboto', sans-serif;
 }
 
 
