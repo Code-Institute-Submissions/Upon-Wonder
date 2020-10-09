@@ -99,9 +99,9 @@ div and put in some extra css on the specific areas that where affected to elimi
 
 - Logo made with the free technology of [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
 - Embeded map possible with help from [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE)
-- Embeded videos from [Youtube](https://www.youtube.com/) 
-    - First video in gallery.html borrowed with premission from [Da SHU](https://www.youtube.com/channel/UC8pmgHZnw2wO4djy1Ur3umA/videos)
-    - Second video in gallery borrowed with premission from [Euphoric Eugene](https://www.youtube.com/watch?v=PWMTDRWJqu4&feature=emb_logo)
-    - Third video in gallery borrowed with premission from [Euphoric Eugene](https://www.youtube.com/watch?v=XccPsuqAz4E&feature=emb_logo)
+- Embeded videos from [Vimeo](https://www.vimeo.com/) 
+    - First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734)
+    - Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779)
+    - Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324)
 
 ### Acknowledgements
