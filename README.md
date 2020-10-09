@@ -50,7 +50,11 @@ the index page simple with a fixed background image, logo and a button which the
 "main paige" with all other information. This was to create a feeling in the visitor that they have now entered the world 
 of the band.
 
-[Index.html Wireframe](assets/wireframe/index-wireframe.png)
+- [Index.html Wireframe](assets/wireframe/index-wireframe.png)
+- [About.html Wireframe](assets/wireframe/about-wireframe.png)
+- [Gallery.html Wireframe](assets/wireframe/gallery-wireframe.png)
+- [Tourdates.html Wireframe](assets/wireframe/tourdates-wireframe.png)
+- [Mobile Device Wireframe](assets/wireframe/mobiledevice-wireframe.png)
 
 3. I also had to come up with a logo for the band. I ended up finding the website [Hatchful](https://hatchful.shopify.com/onboarding/pick-space)
 to create my logo and have used that all through my page.
@@ -82,51 +86,72 @@ The changes included the following:
 Wireframes
 
 ## Features
+The project has a total of five pages. The index page, about page, gallery page, tour dates page and contact page.
 Four out of the five pages features a responsive navigation bar that contains the logo to the left and four options of wich
 page the viewer wants to go to.
 
-Each page has a footer with social media icons linking to the bands social media pages, and a text that encourage the
-viewer to do so. Additionaly there is also a text of copyright information. 
+Each page has a footer with social media icons linking to the bands social media pages (As the band is fictional, 
+the links only leads to the social media start pages.), and a text of copyright information.
 
 ### Index page
-The index page contains of a image of the band, the logo and a button. The purpose of this structure is to activate 
-the viewer to click on the button and evoke a feeling that an experience awaits on the other side of the page.
+The index page contains of an image of the band that covers the whole viewport, the logo and a button. The purpose 
+of this structure is to activate the viewer to click on the button and evoke a feeling that an experience awaits 
+on the other side of the page. When you click the button you will go to the about page.
 
 ### About 
-The about page features a hero image of a concert from the audience's point of view, and a logo on top of the hero
-image. The page includes information about the band itself and how they came together and also a presentation of
-each band member with a member photograph each.
+The about page features a hero image of the band again, and a logo on top of the hero image. The page includes 
+a heading text with the title of the page, information about the band itself and also 
+a presentation of each band member together with an image of them.
 
 ### Gallery 
-In the gallery page, instead of a single image as hero image, an image slider provides the viewer to slide through four
-different images as an alternative to a photo gallery.
-
-Under the image slider three different videos
+The hero image section in the gallery acts as an image slider, with four different images from concerts. The page
+includes a heading text with the title of the page, and under that a content of three videos with a descriptive 
+text about each video content.
 
 **Note!** This band is fictional and do not excist in real life. Therefore the videos used are only an example of
-how videos will look like in this layout. The videos are free to use and the video makers are credited in the 
-credit section of this readme file.
+how videos will look like in this layout. The videos are free to use from Vimeo and the video makers are credited 
+in the credit section of this readme file.
 
 ### Tour Dates 
-The Tour Dates page starts of with an alert section to inform the visitor about the cancellation of the 2020 tour.
-The visitor also gets the information that you can reschedule their excisting tickets or get a refund followed by
-a link to ticketmasters webpage with information regarding the cancellation and rescheduling of live events.
-
-Under the alert the list of tour dates for the year of 2021 is presented. Each performance follows by a pink button
-with the text "tickets" that leads the visitor to a page where they can purchase tickets to the shows.
-
-Under the tour dates list, there are two columns where the one to the left contains a text that says 
-"Want to know where we're heading next? Check out the map!" and next to that column is a map to show where the next
-show will be.
+The Tour Dates page starts of with an alert section on top of a hero image to inform the visitor about the 
+cancellation of the 2020 tour. The message also includes a link that will redirect them to Ticketmasters webpage 
+with information regarding the cancellation and rescheduling of live events.
+Under the hero image the list of tour dates for the year of 2021 is presented. Each performance follows by a pink button
+with the text "tickets" that leads the visitor to Ticketmaster where they can purchase tickets to the shows.
+Under the tour dates list, there are two columns where the one to the left contains a text that encourages the visitor
+to check out the map in the second column to find out where the next show will be.
 
 ### Contact
+The contact page contains of a hero image followed by a heading text with the title of the page and some information
+about how to get in touch with the band. Next follows a form with required input fields and a button to send the
+message. In this case when you press the send message button an alert sign will appear that tells the visitor that
+the bands inbox is currently closed.
 
 ### Features Left to Implement
+Additional features to put in this project would ofcourse be to make it possible to send a message that actually goes
+somewhere. Another additional feature to make would be a page with the bands merchandise that the visitor would be
+able to purchase. A third feature left to implement would be to make it possible for visitors to be able to sign 
+up for a newsletter subscription to get regular newsletters with information about upcoming albums, tours and other
+exclusive updates and information from the band.
 
 ## Technologies Used
+- HTML5 - language for the project.
+- CSS - for styling the HTML code.
+- Bootstrap - mainly used for the responsive grid system byt styled accordingly to the theme of the website.
+- FontAwesome - all icons on the website.
+- Google Fonts - used for the "Roboto" and "Unica-One" fonts.
+- [Unsplash](https://unsplash.com/) - all images used on the page (credits to the photographers further down).
+- [Hatchful](https://hatchful.shopify.com/onboarding/pick-space) - used to create the logo for the band.
+- [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE) - used to embed google map address.
 
 ## Testing
-### Bugs and fixes
+### Different Browsers
+
+### Validating the code
+
+### The websites responsiveness
+
+### Bugs found
 * I noticed that the gallery-text-collumn in gallery.html became wider than the screen 
 length after I decided to change the layout of the page. The margins on the left and right
 where set to -15 despite the fact that I had no-gutters class and a css style that automatically would erase that
@@ -134,25 +159,27 @@ on all rows. This led me to google to try to solve this, but despite the tips I 
 to remove this problem it wouldn't work. I simply solved the bug by putting all text in its own
 div and put in some extra css on the specific areas that where affected to eliminate the extra margins.
 
-*
+* When testing my website I noticed that the button on the index page wouldn't work on my Firefox browser when
+looked at from my laptop. When I tried the website on my other, bigger screen the button worked perfect. It turned
+out that the logo image (despite being transparent) was covering the button and wouldn't make it possible to press it.
+This took me some time to figure out ofcourse and the internet wouldn't give me the answears I wanted. After discovering
+the cause I was able to correct the issue by putting the button to a z-index of +2 and the logo to a z-index of +1.
 
 
 ## Deployment
+Deploying the project
 
 ## Credits
-- Hovering effect in navbar made originally by [Sara Vieira](https://www.developerdrive.com/8-simple-css-hover-effects/) but modified.
-- Zoom effect on index image made originally by [Bharat Karavadra](https://medium.com/@bharatkaravadra/how-to-create-a-css-zoom-in-out-effect-546654fb54e4) but modified.
-
-## Helpful tutorials for when getting stuck in coding
-- Responsive videos with help from[Dani Krossing](https://www.youtube.com/watch?v=HjAAC6BGp5c)
-- Column reverse for smaller screens in bootstrap with help from [Techno Sunita](https://www.youtube.com/watch?v=MkSn0GbocXw)
-- Making my index background responsive to smaller screens with help from [William Craig](https://www.webfx.com/blog/web-design/responsive-background-image/)
-- Making Image Slider with help from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2170s) and with help from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/)
-- Absolute Centering of index button with help from [Manisha Basra](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
 
 ### Content
+As mentioned in the beginning of this readme, the band Upon Wonder is a fictional band and does not excist in real life.
+All text on this website was written by me.
+
+
 ### Media
-- Pictures borrowed for free from [Unsplash](https://unsplash.com/).
+#### Pictures
+Pictures borrowed for free from [Unsplash](https://unsplash.com/).
+
     - Index photo and hero image on about page by [Alexander Jawfox](https://unsplash.com/photos/MkgeKMXCPnw)
     - Picture of Emma by [Ussama Azam](https://unsplash.com/photos/cwmSqgnwbxg)
     - Picture of Sarah by [Alexey Turenkov](https://unsplash.com/photos/M43Qs4FkgiM)
@@ -166,11 +193,35 @@ div and put in some extra css on the specific areas that where affected to elimi
     - Hero image on tour dates page by [Andre Benz](https://unsplash.com/photos/5TJ_80AZCno)
     - Hero image on contact page by [Drew Beamer](https://unsplash.com/photos/3SIXZisims4)
 
-- Logo made with the free technology of [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
-- Embeded map possible with help from [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE)
-- Embeded videos from [Vimeo](https://www.vimeo.com/) 
+#### Videos
+Embeded videos borrowed for free from [Vimeo](https://www.vimeo.com/). 
     - First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734) (Royalty Free Video)
     - Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779) (Royalty Free Video)
     - Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324) (Royalty Free Video)
 
 ### Acknowledgements
+#### Helpful pages used
+- [W3C Schools](https://www.w3schools.com/)
+- [W3C](https://www.w3.org/)
+- [Codepen](https://codepen.io/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Make a Readme](https://www.makeareadme.com)
+
+#### Specificly good tutorials for this project
+- Hovering effect in navbar made originally by [Sara Vieira](https://www.developerdrive.com/8-simple-css-hover-effects/) but modified.
+- Zoom effect on index image made originally by [Bharat Karavadra](https://medium.com/@bharatkaravadra/how-to-create-a-css-zoom-in-out-effect-546654fb54e4) but modified.
+- Responsive videos with help from [Dani Krossing](https://www.youtube.com/watch?v=HjAAC6BGp5c)
+- Column reverse for smaller screens in bootstrap with help from [Techno Sunita](https://www.youtube.com/watch?v=MkSn0GbocXw)
+- Making my index background responsive to smaller screens with help from [William Craig](https://www.webfx.com/blog/web-design/responsive-background-image/)
+- Making Image Slider with help from [Drew Ryan](https://www.youtube.com/watch?v=9cKsq14Kfsw&t=2170s) and with help from [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/)
+- Absolute Centering of index button with help from [Manisha Basra](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
+
+#### Thank you
+Thank you to the following people:
+
+- My mentor Seun Owonikoko
+- My friend and fellow Code Institute study buddy Qim
+- Friends and family 
+
+### Disclaimer
+This website was created for educational use only.
