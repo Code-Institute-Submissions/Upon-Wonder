@@ -15,13 +15,13 @@ for me.
 
 This is the first Milestone Project in Code Institutes Fullstack Developer Education, and the requirements are to
 make a responsive website using HTML and CSS3. This project was also made with Bootstrap which was an option to use
-in the project use as well.
+in the project as well.
 
 View the project live here.
 
 
 ## UX/UI
-The main purpose of the website is to break all information into smaller peaces in to its own pages to make it 
+The main purpose of the website is to break all information into smaller peaces in to their own pages to make it 
 easier for the visitor to find it without getting lost in sections he/she does not want to go to in the first place.
 The ideal visitor for this web page is not only fans that already know about the band, but also people who are
 interested in finding out more about the band to eventually become a fan.
@@ -36,6 +36,7 @@ interested in finding out more about the band to eventually become a fan.
 * Get information about uppcoming tour dates.
 * Get access to view high quality images and videos of the band.
 * Be able to send a message to the band.
+* Overall get a good and satisfied feeling when navigating around the site.
 
 ### Design Process
 1. When I had decided about making a website for a band I started of by searching the internet for inspiration. I 
@@ -72,23 +73,17 @@ pages of the website was clear which led me to make changes to my original idea 
 The changes included the following:
 - Adding a footer to the index page, to make the access to social links easier without having to go to the next page.
 - Move the navbar links to the right to get a better balance to it.
-- Adding hero images to all pages for a continuous feeling throughout the page.
+- Adding hero images to all pages for a continuous feeling throughout the site.
 - Change the image gallery layout to an image slider working as a hero image for the gallery page. For a cleaner look.
 - Adding videos to the gallery for some variety in the media content.
 - Making the tour dates page more similar in structure as the rest of the pages with the hero image and header text.
 - Adding a map to the tour date page.
 - Adding a contact page for fans to be able to send a message to the band.
 
-
-
-
-
-Wireframes
-
 ## Features
 The project has a total of five pages. The index page, about page, gallery page, tour dates page and contact page.
-Four out of the five pages features a responsive navigation bar that contains the logo to the left and four options of wich
-page the viewer wants to go to.
+Four out of the five pages features a responsive navigation bar that contains the logo to the left and four options of which
+page the visitor wants to go to.
 
 Each page has a footer with social media icons linking to the bands social media pages (As the band is fictional, 
 the links only leads to the social media start pages.), and a text of copyright information.
@@ -101,15 +96,15 @@ on the other side of the page. When you click the button you will go to the abou
 ### About 
 The about page features a hero image of the band again, and a logo on top of the hero image. The page includes 
 a heading text with the title of the page, information about the band itself and also 
-a presentation of each band member together with an image of them.
+a presentation of each band member together with an image of them each.
 
 ### Gallery 
-The hero image section in the gallery acts as an image slider, with four different images from concerts. The page
-includes a heading text with the title of the page, and under that a content of three videos with a descriptive 
-text about each video content.
+The hero image section in the gallery acts as an image slider, with four different images from different concerts. The page
+includes a heading text with the title of the page, and under that some media content of three videos with a descriptive 
+text about each video.
 
 **Note!** This band is fictional and do not excist in real life. Therefore the videos used are only an example of
-how videos will look like in this layout. The videos are free to use from Vimeo and the video makers are credited 
+how the bands videos will look like in this layout. The videos are free to use from Vimeo and the video makers are credited 
 in the credit section of this readme file.
 
 ### Tour Dates 
@@ -130,16 +125,16 @@ the bands inbox is currently closed.
 ### Features Left to Implement
 Additional features to put in this project would ofcourse be to make it possible to send a message that actually goes
 somewhere. Another additional feature to make would be a page with the bands merchandise that the visitor would be
-able to purchase. A third feature left to implement would be to make it possible for visitors to be able to sign 
+able to purchase. A third feature left to implement would be to make it possible for visitors to sign 
 up for a newsletter subscription to get regular newsletters with information about upcoming albums, tours and other
 exclusive updates and information from the band.
 
 ## Technologies Used
 - HTML5 - language for the project.
 - CSS - for styling the HTML code.
-- Bootstrap - mainly used for the responsive grid system byt styled accordingly to the theme of the website.
-- FontAwesome - all icons on the website.
-- Google Fonts - used for the "Roboto" and "Unica-One" fonts.
+- [Bootstrap](https://getbootstrap.com/) - mainly used for the responsive grid system byt styled accordingly to the theme of the website.
+- [FontAwesome](https://fontawesome.com/) - all icons on the website.
+- [Google Fonts](https://fonts.google.com/) - used for the "Roboto" and "Unica-One" fonts.
 - [Unsplash](https://unsplash.com/) - all images used on the page (credits to the photographers further down).
 - [Hatchful](https://hatchful.shopify.com/onboarding/pick-space) - used to create the logo for the band.
 - [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE) - used to embed google map address.
@@ -160,7 +155,7 @@ to remove this problem it wouldn't work. I simply solved the bug by putting all 
 div and put in some extra css on the specific areas that where affected to eliminate the extra margins.
 
 * When testing my website I noticed that the button on the index page wouldn't work on my Firefox browser when
-looked at from my laptop. When I tried the website on my other, bigger screen the button worked perfect. It turned
+looked at it from my laptop. When I tried the website on my other, bigger screen the button worked perfect. It turned
 out that the logo image (despite being transparent) was covering the button and wouldn't make it possible to press it.
 This took me some time to figure out ofcourse and the internet wouldn't give me the answears I wanted. After discovering
 the cause I was able to correct the issue by putting the button to a z-index of +2 and the logo to a z-index of +1.
@@ -179,25 +174,24 @@ All text on this website was written by me.
 ### Media
 #### Pictures
 Pictures borrowed for free from [Unsplash](https://unsplash.com/).
-
-    - Index photo and hero image on about page by [Alexander Jawfox](https://unsplash.com/photos/MkgeKMXCPnw)
-    - Picture of Emma by [Ussama Azam](https://unsplash.com/photos/cwmSqgnwbxg)
-    - Picture of Sarah by [Alexey Turenkov](https://unsplash.com/photos/M43Qs4FkgiM)
-    - Picture of Jenna by [Miguel Ángel Hernández](https://unsplash.com/photos/iJV_Vqe9su4)
-    - Picture of Laura by [Kal Visuals](https://unsplash.com/photos/fEbgg7USu3E)
-    - Picture of Maya by [Anton Mislawsky](https://unsplash.com/photos/1B7vFqOn6og)
-    - Gallery photo of crowd by [Yvette de Wit](https://unsplash.com/photos/Kcx_YuUR-dw)
-    - Gallery photo of black shoes on stage by [Robbie Noble](https://unsplash.com/photos/hSygsHzG9ok)
-    - Gallery photo of stage by [Maxime Lebrun](https://unsplash.com/photos/l8h1hXBvzkQ)
-    - Gallery photo of girl singing by [Eduardo Balderas](https://unsplash.com/photos/AfEAFwmQzMc)
-    - Hero image on tour dates page by [Andre Benz](https://unsplash.com/photos/5TJ_80AZCno)
-    - Hero image on contact page by [Drew Beamer](https://unsplash.com/photos/3SIXZisims4)
+- Index photo and hero image on about page by [Alexander Jawfox](https://unsplash.com/photos/MkgeKMXCPnw)
+- Picture of Emma by [Ussama Azam](https://unsplash.com/photos/cwmSqgnwbxg)
+- Picture of Sarah by [Alexey Turenkov](https://unsplash.com/photos/M43Qs4FkgiM)
+- Picture of Jenna by [Miguel Ángel Hernández](https://unsplash.com/photos/iJV_Vqe9su4)
+- Picture of Laura by [Kal Visuals](https://unsplash.com/photos/fEbgg7USu3E)
+- Picture of Maya by [Anton Mislawsky](https://unsplash.com/photos/1B7vFqOn6og)
+- Gallery photo of crowd by [Yvette de Wit](https://unsplash.com/photos/Kcx_YuUR-dw)
+- Gallery photo of black shoes on stage by [Robbie Noble](https://unsplash.com/photos/hSygsHzG9ok)
+- Gallery photo of stage by [Maxime Lebrun](https://unsplash.com/photos/l8h1hXBvzkQ)
+- Gallery photo of girl singing by [Eduardo Balderas](https://unsplash.com/photos/AfEAFwmQzMc)
+- Hero image on tour dates page by [Andre Benz](https://unsplash.com/photos/5TJ_80AZCno)
+- Hero image on contact page by [Drew Beamer](https://unsplash.com/photos/3SIXZisims4)
 
 #### Videos
 Embeded videos borrowed for free from [Vimeo](https://www.vimeo.com/). 
-    - First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734) (Royalty Free Video)
-    - Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779) (Royalty Free Video)
-    - Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324) (Royalty Free Video)
+- First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734) (Royalty Free Video)
+- Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779) (Royalty Free Video)
+- Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324) (Royalty Free Video)
 
 ### Acknowledgements
 #### Helpful pages used
@@ -219,9 +213,11 @@ Embeded videos borrowed for free from [Vimeo](https://www.vimeo.com/).
 #### Thank you
 Thank you to the following people:
 
-- My mentor Seun Owonikoko
-- My friend and fellow Code Institute study buddy Qim
-- Friends and family 
+- My mentor Seun Owonikoko.
+- My friend and fellow Code Institute study buddy Qim.
+- Friends and family for their patient with me coding all day.
+- The best colleagues in the world for letting me follow my dream.
+- The guy who told me I couldn't do it. Look at me now!
 
 ### Disclaimer
 This website was created for educational use only.
