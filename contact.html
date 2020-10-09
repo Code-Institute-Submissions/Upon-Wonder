@@ -65,7 +65,8 @@
                         <h2 class="unica-one">Message us!</h2>
                     </div>
                     <div class="contact-form">
-                        <form action="#" method="post">
+                    <!-- Onsubmit alert with help from https://javascript.info/forms-submit -->
+                        <form onsubmit="alert('Right now Upon Wonders message inbox is closed. Please try again later!');return false">
                             <input class="input-info" type="text" id="fname" name="fname" placeholder="First Name" required>
                             <br>
                             <br>
