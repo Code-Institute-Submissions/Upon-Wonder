@@ -58,7 +58,9 @@ to create my logo and have used that all through my page.
 
 4. Since the planning process as a developer is new to me, I realized quite quickly when I started building the 
 website in code that the structure I made in Wireframes would not last in the end. The lack of continuity of the different
-pages of the website was clear which
+pages of the website was clear which led me to make changes to my original idea throughout the project.
+
+
 
 
 

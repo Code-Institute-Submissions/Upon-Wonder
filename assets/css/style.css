@@ -167,6 +167,7 @@ body {
 #index-logo-position {
     width: 500px;
     margin: 0 auto;
+    z-index: +1;
 }
 
 #index-button {
@@ -174,6 +175,7 @@ body {
     top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
+    z-index: +2;
 }
 
 #index-button a {
