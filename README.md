@@ -33,6 +33,11 @@ image. The page includes information about the band itself and how they came tog
 each band member with a member photograph each.
 
 ### Gallery 
+In the gallery page, instead of a single image as hero image, an image slider provides the viewer to slide through four
+different images as an alternative to a photo gallery.
+
+Under the image slider three different videos
+
 ### Tour Dates 
 The Tour Dates page starts of with an alert section to inform the visitor about the cancellation of the 2020 tour.
 The visitor also gets the information that you can reschedule their excisting tickets or get a refund followed by
