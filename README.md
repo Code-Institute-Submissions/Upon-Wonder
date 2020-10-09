@@ -118,9 +118,9 @@ to check out the map in the second column to find out where the next show will b
 
 ### Contact
 The contact page contains of a hero image followed by a heading text with the title of the page and some information
-about how to get in touch with the band. Next follows a form with required input fields and a button to send the
-message. In this case when you press the send message button an alert sign will appear that tells the visitor that
-the bands inbox is currently closed.
+about how to get in touch with the band. Next follows a form with required input fields, a checkbox and a button 
+to send the message. In this case when you press the send message button an alert sign will appear that tells the 
+visitor that the bands inbox is currently closed.
 
 ### Features Left to Implement
 Additional features to put in this project would ofcourse be to make it possible to send a message that actually goes
