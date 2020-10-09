@@ -1,18 +1,66 @@
 # Upon Wonder - The Band
+
+Picture of site
+
 This is a website to promote the **fictional** band Upon Wonder, including videos, photos, information about each band 
 member, tour dates and a contact page to get in touch with the band. The goal for this page is to please both new and
 excisting fans from all over the world to satisfy their individual need of reaching the information they want when
 visiting the page.
 
-The main purpose of the website is to break all information into smaller peaces in to its own section to make it 
-easier for the viewer to find it without getting lost in sections he/she does not want to go to in first hand.
+My motivation for this web page comes from my own need to quickly and easily find the information I am looking for 
+about a band I like. This may include brief information about each band member, a list of uppcoming tour dates and
+where to find tickets, videos and images of the bands latest performances and a contact form through which I 
+can send my compliments about the band and letters of admiration to tell the band how big of an impact they've made
+for me.
 
-The business aspect goals are the following:
-* Provide new and excisting fans with information about the band and upcoming tour dates.
-* 
-* 
+This is the first Milestone Project in Code Institutes Fullstack Developer Education, and the requirements are to
+make a responsive website using HTML and CSS3. This project was also made with Bootstrap which was an option to use
+in the project use as well.
+
+View the project live here.
+
 
 ## UX
+The main purpose of the website is to break all information into smaller peaces in to its own pages to make it 
+easier for the visitor to find it without getting lost in sections he/she does not want to go to in the first place.
+The ideal visitor for this web page is not only fans that already know about the band, but also people who are
+interested in finding out more about the band to eventually become a fan.
+
+### UX Goals
+* Make navigation easy and clear for any visitor with good UX structure.
+* Customize the web page to be fully responsive to fit all devices.
+* Reflect the band's image through good color choices and fonts that accompany all pages of the website.
+
+### Visitor Goals
+* Provide visitors with information about the band itself.
+* Provide visitors with information about uppcoming tour dates.
+* Provide the visitor with high quality images and videos of the band.
+* 
+
+### Design Process
+1. When I had decided about making a website for a band I started of by searching the internet for inspiration. I 
+already had a brief idea of what the website structure was going to be, now I only had to come up with a theme and
+pictures to work with.
+
+I ended up on [Unsplash](https://unsplash.com/) where I searched for potential images of people who looked like they
+could be in a band, and found [this](https://unsplash.com/photos/MkgeKMXCPnw) picture. I was hooked and the theme
+was set. I would make a website about a popular girlband touring the whole world.
+
+2. After finding the picture of my band for the page I started to do my wireframes. One idea that I had was to make
+the index page simple with a fixed background image, logo and a button which the visitor gets to press to enter the
+"main paige" with all other information. This was to create a feeling in the visitor that they have now entered the world 
+of the band.
+
+Link to wireframes here.
+
+3. I also had to come up with a logo for the band. I ended up finding the website [Hatchful](https://hatchful.shopify.com/onboarding/pick-space)
+to create my logo and have used that all through my page.
+
+4. Since the planning process as a developer is new to me, I realized quite quickly when I started building the 
+website in code that the structure I made in Wireframes would not last in the end. The lack of continuity of the different
+pages of the website was clear which
+
+
 
 Wireframes
 
