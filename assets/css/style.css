@@ -224,7 +224,7 @@ body {
 }
 
 .band-member {
-    padding: 30px 50px 30px 50px;
+    padding: 50px;
 }
 
 .member-photo {
@@ -276,13 +276,12 @@ hr {
 }
 
 .video-row {
-    padding: 30px 50px 30px 50px;
+    padding: 50px;
     margin-right: -0px;
     margin-left: -0px;
 }
 
 .video-text-column {
-    padding-top: 30px;
     padding-bottom: 30px;
 }
 
@@ -313,7 +312,7 @@ hr {
 }
 
 .tour-dates {
-    padding: 30px 50px 30px 50px;
+    padding: 50px;
 }
 
 .tour-dates a {
