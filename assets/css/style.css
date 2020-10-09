@@ -415,8 +415,25 @@ hr {
     width: 200%;
     border: 1px solid rgb(220, 220, 227);
     padding: 7px;
+    border-radius: 3px;
     font-family: 'roboto', sans-serif;
 }
+
+input:focus, textarea:focus {
+    outline: none;
+    background-color: rgb(220, 220, 227);
+    border: 1px solid rgb(220, 220, 227);
+}
+
+.submit-button {
+    color: #fafafa;
+    background-color: #DB3069;
+    font-family: 'unica one', sans-serif;
+    padding: 7px;
+    border: 1px solid #DB3069;
+    border-radius: 10px;
+}
+
 
 
 /* -------------------------------------------------------- media query*/
