@@ -28,7 +28,7 @@ interested in finding out more about the band to eventually become a fan and als
 out and send them a message that potentionally will lead to a show booking.
 
 ### The business goals for this website are:
-* Build awareness about the band to both excisting and new fans.
+* Build awareness about the band to new visitor/potential fans.
 * Drive ticket and merchandise sales.
 * Increase the number of views to the band's Youtube and Vimeo channel.
 * Increase traffic to the band's shared and personal social media channels.
@@ -36,6 +36,7 @@ out and send them a message that potentionally will lead to a show booking.
 
 ### UX/UI goals
 * Make navigation easy and clear for any visitor with good UX structure.
+* Make all information on the page easy to understand.
 * Customize the web page to be fully responsive to fit all devices.
 * Reflect the band's image through good color choices and fonts that accompany to all pages of the website.
 
@@ -91,10 +92,10 @@ The changes included the following:
 - Adding videos to the gallery for some variety in the media content.
 - Making the tour dates page more similar in structure as the rest of the pages with the hero image and header text.
 - Adding a map to the tour date page.
-- Adding a contact page for fans to be able to send a message to the band.
+- Adding a contact page for fans or potential bookers to be able to send a message to the band.
 
 ## Features
-The project has a total of five pages. The index page, about page, gallery page, tour dates page and contact page.
+The project has a total of five pages. The index page, about page, gallery page, tour dates page and a contact page.
 Four out of the five pages features a responsive navigation bar that contains the logo to the left and four options of which
 page the visitor wants to go to.
 
@@ -144,17 +145,113 @@ up for a newsletter subscription to get regular newsletters with information abo
 exclusive updates and information from the band.
 
 ## Technologies Used
+### Languages
 - HTML5 - language for the project.
 - CSS - for styling the HTML code.
+
+### Libraries
 - [Bootstrap](https://getbootstrap.com/) - mainly used for the responsive grid system byt styled accordingly to the theme of the website.
 - [FontAwesome](https://fontawesome.com/) - all icons on the website.
 - [Google Fonts](https://fonts.google.com/) - used for the "Roboto" and "Unica-One" fonts.
 - [Unsplash](https://unsplash.com/) - all images used on the page (credits to the photographers further down).
-- [Hatchful](https://hatchful.shopify.com/onboarding/pick-space) - used to create the logo for the band.
+- [jQuery](https://jquery.com/) - was used for the built-in Javascript to work in Bootstrap.
+
+### Technologies
+- [Gitpod](https://www.gitpod.io/)
+- [Github](https://github.com/)
+- Google Chrome Developer Tool (built in the Google Chrome browser)
+- Firefox Developer Tool (built in the Firefox browser)
 - [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE) - used to embed google map address.
+- [Balsamiq](https://balsamiq.com) - used to make wireframes
+- [Coolors](https://coolors.co/) - to generate the color scheme for the page.
+- [Hatchful](https://hatchful.shopify.com/onboarding/pick-space) - used to create the logo for the band.
 
 ## Testing
-### Different Browsers
+- [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
+- [W3C Markup Validation](https://validator.w3.org/)
+- Manual Testing
+- User Testing
+    - Feedback from friends and family
+
+### Manual Testing
+#### Index page
+- Verify that the background image covers the whole viewport.
+- Verify that the zoom effect works on logo.
+- Verify that the hover effect works on button and that it links to the about page.
+- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+respective social media pages.
+
+All the above tests where verified in the following browsers:
+- Google Chrome
+- Firefox
+- Microsoft Edge
+
+Different Devices:
+All of the above tests where verified to work on tablets, except for hovering effects that doesn't aply to tablets or
+phone devices.
+- Verify that the background Image is responsive and covers all device viewports.
+- Verify that on phone devices the Copyright column disappears and only the social links column show.
+
+#### About page
+- Verify that the navbar logo links back to the index page.
+- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verify that the "Pree-book" link works in the alert message.
+- Verify that the hero image covers the width of the viewport.
+- Verify that the hover effect works on the Instagram icon next to each band members name and that they link to the
+Instagram start page.
+- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+
+All the above tests where verified in the following browsers:
+- Google Chrome
+- Firefox
+- Microsoft Edge
+
+Different Devices:
+All of the above tests where verified to work on tablets, except for hovering effects that doesn't aply to tablets or
+phone devices.
+- Verify that the navbar collapse on tablets and phone devices and that it doesn't effect the links.
+- Verify that the band member photos and band member text gets stacked on top of each other on phone devices.
+- Verify that the column reverse works and shows each band member image before each band member text.
+- Verify that the padding wrapping the text content and band member photos changes on phone devices.
+- Verify that the font-size of the about band text and band member text gets smaller.
+- Verify that on phone devices the Copyright column disappears and only the social links column show.
+
+#### Gallery page
+- Verify that the navbar logo links back to the index page.
+- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verify that the image slider slides automatically through the images but also slides when clicking the indicators.
+- Verify that the image slider covers the width of the viewport.
+- Verify that all embed videos are showing and working by clicking on the play button.
+- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+
+All the above tests where verified in the following browsers:
+- Google Chrome
+- Firefox
+- Microsoft Edge
+
+Different Devices:
+All of the above tests where verified to work on tablets, except for hovering effects that doesn't aply to tablets or
+phone devices.
+- Verify that the navbar collapse on tablets and phone devices and that it doesn't effect the links.
+- Verify that the padding wrapping content changes on phone devices.
+- Verify that the font-size of the gallery text gets smaller.
+- Verify that on phone devices the Copyright column disappears and only the social links column show.
+
+#### Tour Dates page
+- Verify that the navbar logo links back to the index page.
+- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verify that the link in the alert message leads to Ticketmasters Information Regarding the Cancellation and 
+Rescheduling of Live Events.
+- Verify that the hero image covers the width of the viewport.
+- Verify that the hover effect works on the ticket buttons and that they all link to Ticketmaster.
+- Verify that the embed map is working and showing the correct address.
+- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+
+All the above tests where verified in the following browsers:
+- Google Chrome
+- Firefox
+- Microsoft Edge
+
 
 ### Validating the code
 
