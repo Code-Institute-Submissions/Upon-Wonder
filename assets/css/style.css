@@ -152,6 +152,12 @@ body {
     position: relative;
 }
 
+.welcome-text {
+    color: #fafafa;
+    text-align: center;
+    
+}
+
 /* zoom effect credited in README.md*/
 @keyframes zoominoutsinglefeatured {
     0% {
@@ -170,8 +176,9 @@ body {
 }
 
 #index-logo-position img {
-    width: 500px;
+    width: 175px;
     display: block;
+    padding-top: 150px;
     margin-left: auto;
     margin-right: auto;
     z-index: +1;
@@ -485,7 +492,8 @@ input:focus, textarea:focus {
 
     /* index.html */
     #index-logo-position img {
-    width: 300px;
+        width: 125px;
+        padding-top: 80px; 
     }
 
     #index-button a {
