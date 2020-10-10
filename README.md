@@ -103,9 +103,9 @@ Each page has a footer with social media icons linking to the bands social media
 the links only leads to the social media start pages.), and a text of copyright information.
 
 ### Index page
-The index page contains of an image of the band that covers the whole viewport, the logo and a button. The purpose 
-of this structure is to activate the viewer to click on the button and evoke a feeling that an experience awaits 
-on the other side of the page. When you click the button you will go to the about page.
+The index page contains of an image of the band that covers the whole viewport, the logo, a heading text and a button. 
+The purpose of this structure is to activate the viewer to click on the button and evoke a feeling that an 
+experience awaits on the other side of the page. When you click the button you will go to the about page.
 
 ### About 
 The Tour Dates page starts of with an alert section on top of a hero image of the band to inform the visitor about 
@@ -185,6 +185,7 @@ All the above tests where verified in the following browsers:
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
 - Verify that the page is responsive.
+- Verify that the heading text disappers on phone devices.
 - Verify that the background Image is responsive and covers all device viewports.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
 
