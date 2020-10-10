@@ -75,6 +75,11 @@ body {
     font-size: 150%;
 }
 
+.navbar-brand img {
+    width: 55px;
+    height: 50px;
+}
+
 /*Ease in and out effect from Resume project*/
 .navbar-nav a {
     color: #fafafa!important;
@@ -164,9 +169,11 @@ body {
 	animation: zoominoutsinglefeatured 2s forwards;
 }
 
-#index-logo-position {
+#index-logo-position img {
     width: 500px;
-    margin: 0 auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     z-index: +1;
 }
 
@@ -287,6 +294,12 @@ hr {
     padding-bottom: 30px;
 }
 
+.embed-responsive iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
 /* margins to fix bug in row wider than window*/
 
 .gallery-text-row {
@@ -374,7 +387,28 @@ hr {
 .map-section {
     background: white;
     height: 350px;
-    
+}
+
+.map-section iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    overflow: hidden;
+    margin: 0;
+}
+
+.mapouter {
+    position:relative;
+    text-align:right;
+    height:100%;
+    width:100%;
+}
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:100%;
+    width:100%;
 }
 
 
@@ -450,8 +484,8 @@ input:focus, textarea:focus {
 @media (max-width: 575px) {
 
     /* index.html */
-    #index-logo-position {
-        width: 300px;
+    #index-logo-position img {
+    width: 300px;
     }
 
     #index-button a {
