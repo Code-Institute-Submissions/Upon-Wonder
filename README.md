@@ -138,10 +138,9 @@ to send the message. In this case when you press the send message button an aler
 visitor that the bands inbox is currently closed.
 
 ### Features Left to Implement
-Additional features to put in this project would ofcourse be to make it possible to send a message that actually goes
-somewhere. Another additional feature to make would be a page with the bands merchandise that the visitor would be
-able to purchase. A third feature left to implement would be to make it possible for visitors to sign 
-up for a newsletter subscription to get regular newsletters with information about upcoming albums, tours and other
+- To make it possible to send a message that actually goes somewhere. 
+- To make a page with the bands merchandise that the visitor would be able to purchase. 
+- To make it possible for visitors to sign up for a newsletter subscription to get regular newsletters with information about upcoming albums, tours and other
 exclusive updates and information from the band.
 
 ## Technologies Used
@@ -191,6 +190,7 @@ Different Devices:
 - Verify that the background Image is responsive and covers all device viewports.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
 
+
 #### About page
 - Verify that the navbar logo links back to the index page.
 - Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
@@ -198,7 +198,8 @@ Different Devices:
 - Verify that the hero image covers the width of the viewport.
 - Verify that the hover effect works on the Instagram icon next to each band members name and that they link to the
 Instagram start page.
-- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+respective social media pages.
 
 All the above tests where verified in the following browsers:
 - Google Chrome
@@ -207,12 +208,13 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-- Verify that the navbar collapse on phone devices and that it doesn't effect the links.
+- Verify that the navbar collapse on phone devices and that it doesn't affect the links.
 - Verify that the band member photos and band member text gets stacked on top of each other on phone devices.
 - Verify that the column reverse works and shows each band member image before each band member text.
 - Verify that the padding wrapping the text content and band member photos changes on phone devices.
 - Verify that the font-size of the about band text and band member text gets smaller.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
+
 
 #### Gallery page
 - Verify that the navbar logo links back to the index page.
@@ -220,7 +222,8 @@ Different Devices:
 - Verify that the image slider slides automatically through the images but also slides when clicking the indicators.
 - Verify that the image slider covers the width of the viewport.
 - Verify that all embed videos are showing and working by clicking on the play button.
-- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+respective social media pages.
 
 All the above tests where verified in the following browsers:
 - Google Chrome
@@ -229,10 +232,11 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-- Verify that the navbar collapse on phone devices and that it doesn't effect the links.
+- Verify that the navbar collapse on phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping content changes on phone devices.
 - Verify that the font-size of the gallery text gets smaller.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
+
 
 #### Tour Dates page
 - Verify that the navbar logo links back to the index page.
@@ -242,7 +246,8 @@ Rescheduling of Live Events.
 - Verify that the hero image covers the width of the viewport.
 - Verify that the hover effect works on the ticket buttons and that they all link to Ticketmaster.
 - Verify that the embed map is working and showing the correct address.
-- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+respective social media pages.
 
 All the above tests where verified in the following browsers:
 - Google Chrome
@@ -251,10 +256,11 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-- Verify that the navbar collapse on phone devices and that it doesn't effect the links.
+- Verify that the navbar collapse on phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping the tour dates content changes on phone devices.
 - Verify that the text column next to the map (on desktop and tablet) gets stacked on top of the map on phone devices.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
+
 
 #### Contact page
 - Verify that the navbar logo links back to the index page.
@@ -265,7 +271,8 @@ Different Devices:
 - Verify that checkbox is working.
 - Verify that when the form is filled in correctly a pop up sign will show telling the visitor that the inbox is
 currently closed.
-- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+respective social media pages.
 
 All the above tests where verified in the following browsers:
 - Google Chrome
@@ -276,6 +283,7 @@ Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
     - The message that is suppose to pop up on the screen when sending the message didn't work on tablet or phone devices
     when this was tested on private phone. Bug is documented further down in this README.
+- Verify that the navbar collapse on phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping the text content under contact heading is changed on phone devices.
 - Verify that the form is responsive and covers 90% of the viewport on phone devices and 80% of the viewport on tablet
 devices.
