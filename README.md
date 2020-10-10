@@ -187,8 +187,7 @@ All the above tests where verified in the following browsers:
 - Microsoft Edge
 
 Different Devices:
-All of the above tests where verified to work on tablets, except for hovering effects that doesn't aply to tablets or
-phone devices.
+- All of the above tests where verified to work on tablets and phone devices.
 - Verify that the background Image is responsive and covers all device viewports.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
 
@@ -207,9 +206,8 @@ All the above tests where verified in the following browsers:
 - Microsoft Edge
 
 Different Devices:
-All of the above tests where verified to work on tablets, except for hovering effects that doesn't aply to tablets or
-phone devices.
-- Verify that the navbar collapse on tablets and phone devices and that it doesn't effect the links.
+- All of the above tests where verified to work on tablets and phone devices.
+- Verify that the navbar collapse on phone devices and that it doesn't effect the links.
 - Verify that the band member photos and band member text gets stacked on top of each other on phone devices.
 - Verify that the column reverse works and shows each band member image before each band member text.
 - Verify that the padding wrapping the text content and band member photos changes on phone devices.
@@ -230,9 +228,8 @@ All the above tests where verified in the following browsers:
 - Microsoft Edge
 
 Different Devices:
-All of the above tests where verified to work on tablets, except for hovering effects that doesn't aply to tablets or
-phone devices.
-- Verify that the navbar collapse on tablets and phone devices and that it doesn't effect the links.
+- All of the above tests where verified to work on tablets and phone devices.
+- Verify that the navbar collapse on phone devices and that it doesn't effect the links.
 - Verify that the padding wrapping content changes on phone devices.
 - Verify that the font-size of the gallery text gets smaller.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
@@ -252,6 +249,39 @@ All the above tests where verified in the following browsers:
 - Firefox
 - Microsoft Edge
 
+Different Devices:
+- All of the above tests where verified to work on tablets and phone devices.
+- Verify that the navbar collapse on phone devices and that it doesn't effect the links.
+- Verify that the padding wrapping the tour dates content changes on phone devices.
+- Verify that the text column next to the map (on desktop and tablet) gets stacked on top of the map on phone devices.
+- Verify that on phone devices the Copyright column disappears and only the social links column show.
+
+#### Contact page
+- Verify that the navbar logo links back to the index page.
+- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verify that the hero image covers the width of the viewport.
+- Verify that the form is working correct and that the fields that are required points this out when left blank.
+- Verify that you have to include a @ in the email field to be able to send the message.
+- Verify that checkbox is working.
+- Verify that when the form is filled in correctly a pop up sign will show telling the visitor that the inbox is
+currently closed.
+- Verify that the hover effects works on the social media icons and that they link to their respective social media pages.
+
+All the above tests where verified in the following browsers:
+- Google Chrome
+- Firefox
+- Microsoft Edge
+
+Different Devices:
+- All of the above tests where verified to work on tablets and phone devices.
+    - The message that is suppose to pop up on the screen when sending the message didn't work on tablet or phone devices
+    when this was tested on private phone. Bug is documented further down in this README.
+- Verify that the padding wrapping the text content under contact heading is changed on phone devices.
+- Verify that the form is responsive and covers 90% of the viewport on phone devices and 80% of the viewport on tablet
+devices.
+- Verify that on phone devices the Copyright column disappears and only the social links column show.
+
+
 
 ### Validating the code
 
@@ -270,6 +300,12 @@ looked at it from my laptop. When I tried the website on my other, bigger screen
 out that the logo image (despite being transparent) was covering the button and wouldn't make it possible to press it.
 This took me some time to figure out ofcourse and the internet wouldn't give me the answears I wanted. After discovering
 the cause I was able to correct the issue by putting the button to a z-index of +2 and the logo to a z-index of +1.
+
+* When testing my website I noticed that the alert message that is suppose to show when sending a message from the
+contact page didn't work on private tablet or phone device. When I turned to google to try to find an answear the
+answears there prompted to use javascript to correct this issue. However this is something out of my knowledge for
+the moment so the bug still excist.
+Hopefully in the future of this course I will be able to fix this bug and make it work properly on all devices.
 
 
 ## Deployment
