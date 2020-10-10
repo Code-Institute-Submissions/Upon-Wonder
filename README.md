@@ -1,6 +1,6 @@
 # Upon Wonder - The Band
 
-![Screenshots](screenshots.jpg)
+![Screenshots](assets/images/screenshots.jpg)
 
 This is a website to promote the **fictional** band Upon Wonder, including videos, photos, information about each band 
 member, tour dates and a contact page to get in touch with the band. The goal for this page is to please both new and
