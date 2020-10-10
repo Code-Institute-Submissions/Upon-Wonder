@@ -4,7 +4,7 @@ Picture of site
 
 This is a website to promote the **fictional** band Upon Wonder, including videos, photos, information about each band 
 member, tour dates and a contact page to get in touch with the band. The goal for this page is to please both new and
-excisting fans from all over the world to satisfy their individual need of reaching the information they want when
+existing fans from all over the world to satisfy their individual need of reaching the information they want when
 visiting the page.
 
 My motivation for this web page comes from my own need to quickly and easily find the information I am looking for 
@@ -118,7 +118,7 @@ The hero image section in the gallery acts as an image slider, with four differe
 includes a heading text with the title of the page, and under that some media content of three videos with a descriptive 
 text about each video.
 
-**Note!** This band is fictional and do not excist in real life. Therefore the videos used are only an example of
+**Note!** This band is fictional and do not exist in real life. Therefore the videos used are only an example of
 how the bands videos will look like in this layout. The videos are free to use from Vimeo and the video makers are credited 
 in the credit section of this readme file.
 
@@ -282,7 +282,7 @@ All the above tests where verified in the following browsers:
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
     - The message that is suppose to pop up on the screen when sending the message didn't work on tablet or phone devices
-    when this was tested on private phone. Bug is documented further down in this README.
+    when this was tested on private phone and tablet. Bug is documented further down in this README.
 - Verify that the navbar collapse on phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping the text content under contact heading is changed on phone devices.
 - Verify that the form is responsive and covers 90% of the viewport on phone devices and 80% of the viewport on tablet
@@ -312,7 +312,7 @@ the cause I was able to correct the issue by putting the button to a z-index of 
 * When testing my website I noticed that the alert message that is suppose to show when sending a message from the
 contact page didn't work on private tablet or phone device. When I turned to google to try to find an answear the
 answears there prompted to use javascript to correct this issue. However this is something out of my knowledge for
-the moment so the bug still excist.
+the moment so the bug still exist.
 Hopefully in the future of this course I will be able to fix this bug and make it work properly on all devices.
 
 
@@ -321,7 +321,7 @@ Deploying the project
 
 ## Credits
 ### Content
-As mentioned in the beginning of this readme, the band Upon Wonder is a fictional band and does not excist in real life.
+As mentioned in the beginning of this readme, the band Upon Wonder is a fictional band and does not exist in real life.
 All text on this website was written by me.
 
 
