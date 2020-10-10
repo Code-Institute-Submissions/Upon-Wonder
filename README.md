@@ -168,9 +168,6 @@ exclusive updates and information from the band.
 ## Testing
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 - [W3C Markup Validation](https://validator.w3.org/)
-- Manual Testing
-- User Testing
-    - Feedback from friends and family
 
 ### Manual Testing
 #### Index page
@@ -289,7 +286,22 @@ Different Devices:
 devices.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
 
+### User testing
+The website was testet by my mentor, a fellow Code Institute student, my friends and my family to really put the 
+website to the test. The overall feedback I got was positive.
 
+* Easy to navigate around and go to the pages you want to know more about quick and effectively.
+* A fun twist with the index page that made the testers excited about entering Wonderland by clicking the button.
+* Good color scheme and images which reflects the band's theme and image.
+* The detail in the text content, the color scheme and that the images felt like they belonged together made my 
+mentor think that the band actually exist in real life when I first showed her the website.
+* Clean and nice gallery page that doesn't feel too cluttered with content.
+* Great that the website is responsive to the older iPhone 5, one of my friends experience is that most websites
+are no longer including the older devices which makes it harder to navigate on some websites.
+
+Some feedback I got:
+* To include name of the arenas in the tour dates list for more detail, or include a link to a map to each tour date.
+* To include a merchandise page where you could buy the merch.
 
 ### Validating the code
 
