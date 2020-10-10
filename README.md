@@ -11,7 +11,7 @@ My motivation for this web page comes from my own need to quickly and easily fin
 about a band I like. This may include brief information about each band member, a list of uppcoming tour dates and
 where to find tickets, videos and images of the bands latest performances and a contact form through which I 
 can send my compliments about the band and letters of admiration to tell the band how big of an impact they've made
-for me.
+for me (Even though they might now answear, because they're a band busy doing band stuff).
 
 This is the first Milestone Project in Code Institutes Fullstack Developer Education, and the requirements are to
 make a responsive website using HTML and CSS3. This project was also made with Bootstrap which was an option to use
@@ -22,21 +22,34 @@ View the project live here.
 
 ## UX/UI
 The main purpose of the website is to break all information into smaller peaces in to their own pages to make it 
-easier for the visitor to find it without getting lost in sections he/she does not want to go to in the first place.
+easier for the visitor to find it without getting lost in sections he/she does not want to go to to get where they want.
 The ideal visitor for this web page is not only fans that already know about the band, but also people who are
-interested in finding out more about the band to eventually become a fan.
+interested in finding out more about the band to eventually become a fan and also people who want to chech the band
+out and send them a message that potentionally will lead to a show booking.
 
-### UX/UI Goals
+### The business goals for this website are:
+* Build awareness about the band to both excisting and new fans.
+* Drive ticket and merchandise sales.
+* Increase the number of views to the band's Youtube and Vimeo channel.
+* Increase traffic to the band's shared and personal social media channels.
+* Make it easier for companies that want to book the band to get in touch with them.
+
+### UX/UI goals
 * Make navigation easy and clear for any visitor with good UX structure.
 * Customize the web page to be fully responsive to fit all devices.
 * Reflect the band's image through good color choices and fonts that accompany to all pages of the website.
 
-### Visitor Goals
-* Get information about the band itself.
-* Get information about uppcoming tour dates.
-* Get access to view high quality images and videos of the band.
-* Be able to send a message to the band.
-* Overall get a good and satisfied feeling when navigating around the site.
+### Visitor stories
+* As a new visitor I want to get easy access to information about the band, each bandmember and where I can listen
+to their music.
+* As a fan/new or returning visitor I want to get easy access to information about uppcoming tour dates and where I can
+buy tickets.
+* As a fan of the band I want to be able to buy merchandise or be directed to where I can buy it.
+* As a fan I want to get access to view high quality images and videos of the band.
+* As a fan I want to be able to send a message to the band.
+* As a potential client who wants to book the band I want to be able to send a message with prioritization.
+* As a fan/new or returning visitor I want to get an overall good feeling of the bands image throughout the whole
+page.
 
 ### Design Process
 1. When I had decided about making a website for a band I started of by searching the internet for inspiration. I 
@@ -61,7 +74,7 @@ of the band.
 to create my logo and have used that all through my page.
 
 4. To come up with the color scheme for the website I used the generating function of [Coolors](https://coolors.co/).
-And the colors I ended up with and used for the entire page was the following:
+The colors I ended up with using the most for the entire page was the following:
 
 - #0A014F (The dark blue color used in navbar and footer)
 - #DB3069 (The bright pink color used on all buttons)
