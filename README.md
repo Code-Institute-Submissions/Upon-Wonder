@@ -173,10 +173,10 @@ exclusive updates and information from the band.
 
 ### Manual Testing
 #### Index page
-- Verify that the background image covers the whole viewport.
-- Verify that the zoom effect works on logo.
-- Verify that the hover effect works on button and that it links to the about page.
-- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+- Verified that the background image covers the whole viewport.
+- Verified that the zoom effect works on logo.
+- Verified that the hover effect works on button and that it links to the about page.
+- Verified that the hover effects works on the social media icons in the footer and that they link to their 
 respective social media pages.
 
 All the above tests where verified in the following browsers:
@@ -186,19 +186,19 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-- Verify that the page is responsive.
-- Verify that the background Image is responsive and covers all device viewports.
-- Verify that on phone devices the Copyright column disappears and only the social links column show.
+- Verified that the page is responsive.
+- Verified that the background Image is responsive and covers all device viewports.
+- Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
 #### About page
-- Verify that the navbar logo links back to the index page.
-- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
-- Verify that the "Pree-book" link works in the alert message.
-- Verify that the hero image covers the width of the viewport.
-- Verify that the hover effect works on the Instagram icon next to each band members name and that they link to the
+- Verified that the navbar logo links back to the index page.
+- Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verified that the "Pree-book" link works in the alert message.
+- Verified that the hero image covers the width of the viewport.
+- Verified that the hover effect works on the Instagram icon next to each band members name and that they link to the
 Instagram start page.
-- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+- Verified that the hover effects works on the social media icons in the footer and that they link to their 
 respective social media pages.
 
 All the above tests where verified in the following browsers:
@@ -208,22 +208,22 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-- Verify that the page is responsive.
-- Verify that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
-- Verify that the band member photos and band member text gets stacked on top of each other on phone devices.
-- Verify that the column reverse works and shows each band member image before each band member text.
-- Verify that the padding wrapping the text content and band member photos changes on phone devices.
-- Verify that the font-size of the about band text and band member text gets smaller.
-- Verify that on phone devices the Copyright column disappears and only the social links column show.
+- Verified that the page is responsive.
+- Verified that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
+- Verified that the band member photos and band member text gets stacked on top of each other on phone devices.
+- Verified that the column reverse works and shows each band member image before each band member text.
+- Verified that the padding wrapping the text content and band member photos changes on phone devices.
+- Verified that the font-size of the about band text and band member text gets smaller.
+- Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
 #### Gallery page
-- Verify that the navbar logo links back to the index page.
-- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
-- Verify that the image slider slides automatically through the images but also slides when clicking the indicators.
-- Verify that the image slider covers the width of the viewport.
-- Verify that all embed videos are showing and working by clicking on the play button.
-- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+- Verified that the navbar logo links back to the index page.
+- Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verified that the image slider slides automatically through the images but also slides when clicking the indicators.
+- Verified that the image slider covers the width of the viewport.
+- Verified that all embed videos are showing and working by clicking on the play button.
+- Verified that the hover effects works on the social media icons in the footer and that they link to their 
 respective social media pages.
 
 All the above tests where verified in the following browsers:
@@ -233,22 +233,22 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-- Verify that the page is responsive.
-- Verify that the navbar collapse on tablets and  phone devices and that it doesn't affect the links.
-- Verify that the padding wrapping content changes on phone devices.
-- Verify that the font-size of the gallery text gets smaller.
-- Verify that on phone devices the Copyright column disappears and only the social links column show.
+- Verified that the page is responsive.
+- Verified that the navbar collapse on tablets and  phone devices and that it doesn't affect the links.
+- Verified that the padding wrapping content changes on phone devices.
+- Verified that the font-size of the gallery text gets smaller.
+- Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
 #### Tour Dates page
-- Verify that the navbar logo links back to the index page.
-- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
-- Verify that the link in the alert message leads to Ticketmasters Information Regarding the Cancellation and 
+- Verified that the navbar logo links back to the index page.
+- Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verified that the link in the alert message leads to Ticketmasters Information Regarding the Cancellation and 
 Rescheduling of Live Events.
-- Verify that the hero image covers the width of the viewport.
-- Verify that the hover effect works on the ticket buttons and that they all link to Ticketmaster.
-- Verify that the embed map is working and showing the correct address.
-- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+- Verified that the hero image covers the width of the viewport.
+- Verified that the hover effect works on the ticket buttons and that they all link to Ticketmaster.
+- Verified that the embed map is working and showing the correct address.
+- Verified that the hover effects works on the social media icons in the footer and that they link to their 
 respective social media pages.
 
 All the above tests where verified in the following browsers:
@@ -258,23 +258,23 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-- Verify that the page is responsive.
-- Verify that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
-- Verify that the padding wrapping the tour dates content changes on phone devices.
-- Verify that the text column next to the map gets stacked on top of the map on phone devices.
-- Verify that on phone devices the Copyright column disappears and only the social links column show.
+- Verified that the page is responsive.
+- Verified that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
+- Verified that the padding wrapping the tour dates content changes on phone devices.
+- Verified that the text column next to the map gets stacked on top of the map on phone devices.
+- Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
 #### Contact page
-- Verify that the navbar logo links back to the index page.
-- Verify that the hovering effect works on all links in the navbar menu and links to their respective pages.
-- Verify that the hero image covers the width of the viewport.
-- Verify that the form is working correct and that the fields that are required points this out when left blank.
-- Verify that you have to include a @ in the email field to be able to send the message.
-- Verify that checkbox is working.
-- Verify that when the form is filled in correctly a pop up sign will show telling the visitor that the inbox is
+- Verified that the navbar logo links back to the index page.
+- Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
+- Verified that the hero image covers the width of the viewport.
+- Verified that the form is working correct and that the fields that are required points this out when left blank.
+- Verified that you have to include a @ in the email field to be able to send the message.
+- Verified that checkbox is working.
+- Verified that when the form is filled in correctly a pop up sign will show telling the visitor that the inbox is
 currently closed.
-- Verify that the hover effects works on the social media icons in the footer and that they link to their 
+- Verified that the hover effects works on the social media icons in the footer and that they link to their 
 respective social media pages.
 
 All the above tests where verified in the following browsers:
@@ -286,13 +286,13 @@ Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
     - The message that is suppose to pop up on the screen when sending the message didn't work on tablets or phone devices
     when tested. Bug is documented further down in this README.
-- Verify that the page is responsive.
-- Verify that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
-- Verify that the padding wrapping the text content under contact heading is changed on phone devices.
-- Verify that the font-size of the contact page text gets smaller.
-- Verify that the form is responsive and covers 90% of the viewport on phone devices and 80% of the viewport on tablet
+- Verified that the page is responsive.
+- Verified that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
+- Verified that the padding wrapping the text content under contact heading is changed on phone devices.
+- Verified that the font-size of the contact page text gets smaller.
+- Verified that the form is responsive and covers 90% of the viewport on phone devices and 80% of the viewport on tablet
 devices.
-- Verify that on phone devices the Copyright column disappears and only the social links column show.
+- Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 ### User testing
 The website was testet by my mentor, a fellow Code Institute student, my friends and my family to really put the 
