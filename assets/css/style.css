@@ -65,7 +65,7 @@ body {
     
 }
 
-/* ------------------- body class .head-space */
+/* body class .head-space */
 
 .head-space {
     padding-top: 76px;
@@ -84,7 +84,7 @@ body {
     height: 50px;
 }
 
-/*Ease in and out effect from Resume project*/
+/*Ease in and out effect from lesson in Mini Project with Bootstrap 4*/
 .navbar-nav a {
     color: #fafafa!important;
     padding-left: 5px!important;
@@ -95,7 +95,7 @@ body {
     -o-transition: all 0.4s ease-in-out;
 }
 
-/*Ghost Button effect credited in README.md */
+/*Hovering effect credit https://www.developerdrive.com/8-simple-css-hover-effects/ */
 .navbar-nav a:hover {
     color: #DB3069!important;
     background: rgba(0,0,0,0);
@@ -145,6 +145,7 @@ body {
 
 /* ------------------- index.html*/
 
+/* Responsive backround image https://www.webfx.com/blog/web-design/responsive-background-image/ */
 .hero-image {
     background-image: url("../images/band1.jpg");
     background-position: center center;
@@ -162,7 +163,7 @@ body {
     
 }
 
-/* zoom effect credited in README.md*/
+/* zoom effect credit https://medium.com/@bharatkaravadra/how-to-create-a-css-zoom-in-out-effect-546654fb54e4 */
 @keyframes zoominoutsinglefeatured {
     0% {
         transform: scale(1,1);
