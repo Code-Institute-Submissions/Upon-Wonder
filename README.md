@@ -209,7 +209,7 @@ All the above tests where verified in the following browsers:
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
 - Verify that the page is responsive.
-- Verify that the navbar collapse on tablet and phone devices and that it doesn't affect the links.
+- Verify that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
 - Verify that the band member photos and band member text gets stacked on top of each other on phone devices.
 - Verify that the column reverse works and shows each band member image before each band member text.
 - Verify that the padding wrapping the text content and band member photos changes on phone devices.
@@ -234,7 +234,7 @@ All the above tests where verified in the following browsers:
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
 - Verify that the page is responsive.
-- Verify that the navbar collapse on tablet and  phone devices and that it doesn't affect the links.
+- Verify that the navbar collapse on tablets and  phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping content changes on phone devices.
 - Verify that the font-size of the gallery text gets smaller.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
@@ -259,9 +259,9 @@ All the above tests where verified in the following browsers:
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
 - Verify that the page is responsive.
-- Verify that the navbar collapse on tablet and phone devices and that it doesn't affect the links.
+- Verify that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping the tour dates content changes on phone devices.
-- Verify that the text column next to the map (on desktop and tablet) gets stacked on top of the map on phone devices.
+- Verify that the text column next to the map gets stacked on top of the map on phone devices.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
 
 
@@ -284,10 +284,10 @@ All the above tests where verified in the following browsers:
 
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
-    - The message that is suppose to pop up on the screen when sending the message didn't work on tablet or phone devices
-    when this was tested on private phone and tablet. Bug is documented further down in this README.
+    - The message that is suppose to pop up on the screen when sending the message didn't work on tablets or phone devices
+    when tested. Bug is documented further down in this README.
 - Verify that the page is responsive.
-- Verify that the navbar collapse on tablet and phone devices and that it doesn't affect the links.
+- Verify that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping the text content under contact heading is changed on phone devices.
 - Verify that the form is responsive and covers 90% of the viewport on phone devices and 80% of the viewport on tablet
 devices.
