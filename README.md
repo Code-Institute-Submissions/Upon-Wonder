@@ -336,7 +336,14 @@ Hopefully in the future of this course I will be able to fix this bug and make i
 
 
 ## Deployment
-Deploying the project
+This project was developed in Gitpod and then pushed to GitHub. To deploy the project the following steps steps were taken:
+1. Log in to GitHub.
+2. Select 'Josefinekihlstrom/MS1' from the repository list.
+3. Select 'Settings' in the menu under the repository name.
+4. Scroll down to the 'GitHub Pages' section.
+5. Under 'Source', select 'Master' in the dropdown menu.
+6. Click 'Save' and the page will refresh.
+7. Scroll back down to 'GitHub Pages' to get access to the link.
 
 ## Credits
 ### Content
