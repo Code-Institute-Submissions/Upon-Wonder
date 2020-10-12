@@ -8,10 +8,10 @@ existing fans from all over the world to satisfy their individual need of reachi
 visiting the page.
 
 My motivation for this web page comes from my own need to quickly and easily find the information I am looking for 
-about a band I like. This may include brief information about each band member, a list of uppcoming tour dates and
-where to find tickets, videos and images of the bands latest performances and a contact form through which I 
-can send my compliments about the band and letters of admiration to tell the band how big of an impact they've made
-for me (Even though they might now answear, because they're a band busy doing band stuff).
+about a band I like. This include a list of uppcoming tour dates and where to find tickets, videos and images of the 
+bands latest performances and a contact form through which I can send my complimenting letters of admiration to tell 
+the band how big of an impact they've made for me (Even though they might now answear, because they're a band, busy 
+doing band stuff).
 
 This is the first Milestone Project in Code Institutes Fullstack Developer Education, and the requirements are to
 make a responsive website using HTML and CSS3. This project was also made with Bootstrap which was an option to use
