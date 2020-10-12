@@ -363,8 +363,9 @@ hr {
     border: 2px solid #DB3069;
 }
 
-.justify-right {
-    float: right;
+.ticket-button {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .tour-dates li {
@@ -566,6 +567,10 @@ input:focus, textarea:focus {
 
     .tour-dates li {
         margin-bottom: 40px;
+    }
+
+    .justify-right {
+        
     }
 
     .tour-dates-hero {
