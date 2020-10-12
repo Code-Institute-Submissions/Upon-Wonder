@@ -30,7 +30,8 @@ out and send them a message that potentionally will lead to a show booking.
 ### The business goals for this website are:
 * Build awareness about the band to new visitor/potential fans.
 * Drive ticket and merchandise sales.
-* Increase the number of views to the band's Youtube and Vimeo channel.
+* Increase the number of views on the band's Youtube and Vimeo channels.
+* Increase the number of streams on the bands Spotify.
 * Increase traffic to the band's shared and personal social media channels.
 * Make it easier for companies that want to book the band to get in touch with them.
 
@@ -296,20 +297,21 @@ devices.
 The website was testet by my mentor, a fellow Code Institute student, my friends and my family to really put the 
 website to the test. The overall feedback I got was positive.
 
-* Easy to navigate around and go to the pages you want to know more about quick and effectively.
+* Easy to navigate around and go to the pages you want to know more about quick and effectively. With the navbar
+fixed all paths are available all the time.
 * A fun twist with the index page that made the testers excited about entering Wonderland by clicking the button.
 * Good color scheme and images which reflects the band's theme and image.
-* The detail in the text content, the color scheme and that the images felt like they belonged together made my 
-mentor think that the band actually exist in real life when I first showed her the website.
+* The detail in the text content, the color scheme and that the images felt like they belonged together and made my 
+mentor think that the band actually exist in real life.
 * Clean and nice gallery page that doesn't feel too cluttered with content.
-* Great that the website is responsive to the older iPhone 5, one of my friends experience is that most websites
+* Simple and clear tour dates page.
+* Great that the website is responsive to the older iPhone 5. One of my testers experience is that most websites
 are no longer including the older devices which makes it harder to navigate on some websites.
 
 Some feedback I got:
 * To include name of the arenas in the tour dates list for more detail, or include a link to a map to each tour date.
-* To include a merchandise page where you could buy the merch.
-
-### Validating the code
+* To include a merchandise page where you can buy the merch.
+* To include a media player to be able to listen to the bands music while browsing the website.
 
 ### Bugs found
 * I noticed that the gallery-text-collumn in gallery.html became wider than the screen 
@@ -326,7 +328,7 @@ This took me some time to figure out ofcourse and the internet wouldn't give me 
 the cause I was able to correct the issue by putting the button to a z-index of +2 and the logo to a z-index of +1.
 
 * When testing my website I noticed that the alert message that is suppose to show when sending a message from the
-contact page didn't work on private tablet or phone device. When I turned to google to try to find an answear the
+contact page didn't work on my private tablet or phone device. When I turned to google to try to find an answear the
 answears there prompted to use javascript to correct this issue. However this is something out of my knowledge for
 the moment so the bug still exist.
 Hopefully in the future of this course I will be able to fix this bug and make it work properly on all devices.
@@ -370,7 +372,7 @@ Embeded videos borrowed for free from [Vimeo](https://www.vimeo.com/).
 - [Codepen](https://codepen.io/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Make a Readme](https://www.makeareadme.com)
-- [jQuery](https://jquery.com/)
+- [CSS-Tricks](https://css-tricks.com)
 
 #### Code
 - Hovering effect in navbar made originally by [Sara Vieira](https://www.developerdrive.com/8-simple-css-hover-effects/) but modified.
