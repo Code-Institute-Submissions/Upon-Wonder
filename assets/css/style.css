@@ -17,6 +17,10 @@
     text-transform: uppercase;
 }
 
+.heading-text {
+    font-size: 18px;
+}
+
 /* ------------------- row margin */
 
 .row {
@@ -515,6 +519,10 @@ input:focus, textarea:focus {
         margin-left: 0;
     }
 
+    .heading-text {
+    font-size: 16px;
+    }
+
     /* about.html */
     .about-band-column {
         padding: 20px;
@@ -523,10 +531,6 @@ input:focus, textarea:focus {
     .band-member {
         font-size: 16px;
         padding: 20px;
-    }
-
-    .about-band-column h5 {
-        font-size: 16px;
     }
 
     .about-hero {
@@ -569,10 +573,6 @@ input:focus, textarea:focus {
         margin-bottom: 40px;
     }
 
-    .justify-right {
-        
-    }
-
     .tour-dates-hero {
         height: 300px;
         background-size:cover;
@@ -608,10 +608,6 @@ input:focus, textarea:focus {
         padding: 20px;
     }
 
-    .gallery-text-column h5 {
-        font-size: 16px;
-    } 
-
     .video-row {
         padding: 20px;
     }
@@ -624,10 +620,6 @@ input:focus, textarea:focus {
 
     .contact-header-text {
         padding: 20px;
-    }
-
-    .contact-header-text h5 {
-        font-size: 16px;
     }
 
     .input-info {
