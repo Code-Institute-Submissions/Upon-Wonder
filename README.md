@@ -17,7 +17,7 @@ This is the first Milestone Project in Code Institutes Fullstack Developer Educa
 make a responsive website using HTML and CSS3. This project was also made with Bootstrap which was an option to use
 in the project as well.
 
-View the project live here.
+[View the live project here!](https://josefinekihlstrom.github.io/MS1/)
 
 
 ## UX/UI
@@ -344,6 +344,19 @@ This project was developed in Gitpod and then pushed to GitHub. To deploy the pr
 5. Under 'Source', select 'Master' in the dropdown menu.
 6. Click 'Save' and the page will refresh.
 7. Scroll back down to 'GitHub Pages' to get access to the link.
+
+Go to the Upon Wonder project website: [Upon Wonder](https://josefinekihlstrom.github.io/MS1/)
+
+### Cloning this project
+To clone this project follow these steps:
+1. Go to the top of this projects repository.
+2. Click the button named 'Code'.
+3. Choose HTTPS and copy the URL.
+4. Open Git Bash/Terminal and change the current working directory to the location where you want the cloned directory.
+5. Type 'git clone' and then paste the copied URL.
+6. Press 'Enter'.
+
+To get to the source of this information: [Click here!](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 ## Credits
 ### Content
