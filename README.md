@@ -289,6 +289,7 @@ Different Devices:
 - Verify that the page is responsive.
 - Verify that the navbar collapse on tablets and phone devices and that it doesn't affect the links.
 - Verify that the padding wrapping the text content under contact heading is changed on phone devices.
+- Verify that the font-size of the contact page text gets smaller.
 - Verify that the form is responsive and covers 90% of the viewport on phone devices and 80% of the viewport on tablet
 devices.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
