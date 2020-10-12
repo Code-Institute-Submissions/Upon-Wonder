@@ -161,10 +161,11 @@ exclusive updates and information from the band.
 - [Github](https://github.com/)
 - Google Chrome Developer Tool (built in the Google Chrome browser)
 - Firefox Developer Tool (built in the Firefox browser)
-- [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE) - used to embed google map address.
 - [Balsamiq](https://balsamiq.com) - used to make wireframes
 - [Coolors](https://coolors.co/) - to generate the color scheme for the page.
 - [Hatchful](https://hatchful.shopify.com/onboarding/pick-space) - used to create the logo for the band.
+- [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE) - used to embed google map address.
+- [Vimeo](https://vimeo.com/) - used to embed videos in gallery.
 
 ## Testing
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
