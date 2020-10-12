@@ -166,6 +166,7 @@ exclusive updates and information from the band.
 - [Hatchful](https://hatchful.shopify.com/onboarding/pick-space) - used to create the logo for the band.
 - [Embed Google Maps](https://www.embedgooglemap.net/en/?gclid=CjwKCAjwmMX4BRAAEiwA-zM4JoyJB_AMMTM8hXyyqUkgRPOhXRWv6NyhWXqxULExeMFMwcGrFYMOzRoCLf0QAvD_BwE) - used to embed google map address.
 - [Vimeo](https://vimeo.com/) - used to embed videos in gallery.
+- [TinyPNG](https://tinypng.com/) - used to compress images.
 
 ## Testing
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
