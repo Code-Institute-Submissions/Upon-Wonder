@@ -187,7 +187,6 @@ All the above tests where verified in the following browsers:
 Different Devices:
 - All of the above tests where verified to work on tablets and phone devices.
 - Verify that the page is responsive.
-- Verify that the heading text disappers on phone devices.
 - Verify that the background Image is responsive and covers all device viewports.
 - Verify that on phone devices the Copyright column disappears and only the social links column show.
 
