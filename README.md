@@ -348,7 +348,7 @@ This project was developed in Gitpod and then pushed to GitHub. To deploy the pr
 Go to the Upon Wonder project website: [Upon Wonder](https://josefinekihlstrom.github.io/MS1/)
 
 ### Cloning this project
-To clone this project follow these steps:
+If you want to work further on my project, go ahead and clone it following these steps:
 1. Go to the top of this projects repository.
 2. Click the button named 'Code'.
 3. Choose HTTPS and copy the URL.
