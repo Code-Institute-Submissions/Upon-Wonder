@@ -22,10 +22,9 @@ in the project as well.
 
 ## UX/UI
 The main purpose of the website is to break all information into smaller peaces in to their own pages to make it 
-easier for the visitor to find it without getting lost in sections he/she does not want to go to to get where they want.
-The ideal visitor for this web page is not only fans that already know about the band, but also people who are
-interested in finding out more about the band to eventually become a fan and also people who want to chech the band
-out and send them a message that potentionally will lead to a show booking.
+easier for the visitor to find it without getting lost in sections he/she does not want to go to.
+The ideal visitor for this web page is not only fans who already know about the band, but also people who are potential
+fans and people who want to book the band for a show.
 
 ### The business goals for this website are:
 * Build awareness about the band to new visitor/potential fans.
@@ -37,14 +36,14 @@ out and send them a message that potentionally will lead to a show booking.
 
 ### UX/UI goals
 * Make navigation easy and clear for any visitor with good UX structure.
-* Make all information on the page easy to understand.
+* Make all information on the page easy to find and understand.
 * Customize the web page to be fully responsive to fit all devices.
 * Reflect the band's image through good color choices and fonts that accompany to all pages of the website.
 
 ### Visitor stories
 * As a new visitor I want to get easy access to information about the band, each bandmember and where I can listen
 to their music.
-* As a fan/new or returning visitor I want to get easy access to information about uppcoming tour dates and where I can
+* As a visitor I want to get easy access to information about uppcoming tour dates and where I can
 buy tickets.
 * As a fan of the band I want to be able to buy merchandise or be directed to where I can buy it.
 * As a fan I want to get access to view high quality images and videos of the band.
@@ -64,7 +63,7 @@ was set. I would make a website about a popular girlband touring the whole world
 2. After finding the picture of my band for the page I started to do my wireframes. One idea that I had was to make
 the index page simple with a fixed background image, logo and a button which the visitor gets to press to enter the
 "main paige" with all other information. This was to create a feeling in the visitor that they have now entered the world 
-of the band.
+of Upon Wonder.
 
 - [Index.html Wireframe](assets/wireframe/index-wireframe.png)
 - [About.html Wireframe](assets/wireframe/about-wireframe.png)
