@@ -509,9 +509,9 @@ input:focus, textarea:focus {
 }
 
 
-/* ------------------- max-width: 600px */
+/* ------------------- max-width: 640px */
 
-@media (max-width: 600px) {
+@media (max-width: 640px) {
 
     /* general */
     hr {
