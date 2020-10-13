@@ -306,8 +306,6 @@ fixed all paths are available all the time.
 mentor think that the band actually exist in real life.
 * Clean and nice gallery page that doesn't feel too cluttered with content.
 * Simple and clear tour dates page.
-* Great that the website is responsive to the older iPhone 5. One of my testers experience is that most websites
-are no longer including the older devices which makes it harder to navigate on some websites.
 
 Some feedback I got:
 * To include name of the arenas in the tour dates list for more detail, or include a link to a map to each tour date.
