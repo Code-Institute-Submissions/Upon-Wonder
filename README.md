@@ -47,29 +47,34 @@ to their music.
 buy tickets.
 * As a fan of the band I want to be able to buy merchandise or be directed to where I can buy it.
 * As a fan I want to get access to view high quality images and videos of the band.
-* As a fan I want to be able to send a message to the band.
-* As a potential client who wants to book the band I want to be able to send a message with prioritization.
 * As a fan/new or returning visitor I want to get an overall good feeling of the bands image throughout the whole
 page.
+* As a fan I want to be able to send a message to the band.
+* As a potential client who wants to book the band I want to be able to send a message with prioritization.
 
 ### Design Process
 1. Stragety plane: My strategy for this website was to offer a website with clear navigation to the information of which
-the visitor wants to reach. The strategy plane is based on the user stories which made it easier to come up with what
-pages I wanted to add to my website. The aim is to give a clear picture to the visitor of which members are behind 
-the band and what kind of image they have while making it fun to navigate through the website.
+the visitor wants to reach. The original strategy plane was based on the first five user stories above. The aim was 
+to give a clear picture to the visitor of the members behind the band, their image and what they do while making it 
+fun to navigate through the website.
 
-2. Scope plane: The key features I wanted to add to my website was images of the band members both together and 
-separate , a gallery with photos of the band performing and a clear list with 
-tour dates followed by a link to ticket resellers.
+2. Scope plane: The key features I wanted to add to my website was information about the members and images of them
+each, a gallery with photos of the band performing and a clear list with information about upcoming tour dates 
+followed by a link to a ticket reseller.
 
 3. Structure plane: When the key features was set I decided which pages I was going to add to my website. I originally 
-decided to make my website with four pages: an index page, about page, gallery page and a tour dates page. 
+decided to design my structure into four pages: an index page, about page, gallery page and a tour dates page. 
+The index page was going to activate the visitor and welcome them while the other pages was 
+going to give the visitor more context in the form of information along with images.
 
-4. Skeleton plane:  My goal for the index page was to make it a little different from the rest of the pages. I knew I 
-wanted to activate the visitor in some way, making their visit more of an experience than just showing plain information
-straight ahead. I decided that I wanted to cover the index page with a picture of the band, with a simple text on it
-and a button that the visitor gets to press to enter the 'website'. The rest of the pages was going to have a footer
-at the bottom of the page with social links and a fixed navigationbar at the top with links to the other pages. 
+4. Skeleton plane:  As mentioned in the structure plane, I wanted to make the index page a little different from 
+the other pages. I knew I wanted to make their visit more of an experience than just showing plain information 
+straight ahead. 
+I decided that I wanted to cover the index page with a picture of the band, with the band logo and a button on it 
+that the visitor gets to press to enter the 'website'. The button would link to the about page.
+The purpose of this structure is to evoke a feeling that the world of the band awaits on the other side of the page.
+The rest of the pages was going to have a footer at the bottom of the page with social links and a fixed 
+navigationbar at the top with links to the other pages. 
 The navigationbar was going to be visible there at all time to make it possible to quickly navigate to another 
 page at any time.
 
@@ -95,7 +100,8 @@ page at any time.
 When I started to build my website in HTML and CSS I started to notice flaws in my structure. Since this whole 
 planning process as a developer is new to me, I realized quite quickly when I started building the website in 
 code that the structure I originally made in Wireframes would not last in the end. The lack of continuity of the 
-different pages of the website was clear which led me to make changes to my original idea throughout the project. 
+different pages of the website was clear which led me to make changes to my original idea throughout the project.
+During the project I also chose to add two more users stories to my project (The last two points on the [User Stories](#user-stories) list).
 The changes included the following:
 - Adding a fifth page, the contact page, that was going to include a form to make it possible to contact the band.
 - Adding a footer to the index page, to make the access to social links easier without having to go to the next page.
@@ -116,8 +122,7 @@ the links only leads to the social media start pages.), and a text of copyright 
 
 ### Index page
 The index page contains of an image of the band that covers the whole viewport, the logo, a heading text and a button. 
-The purpose of this structure is to activate the viewer to click on the button and evoke a feeling that an 
-experience awaits on the other side of the page. When you click the button you will go to the about page.
+When you click the button you will go to the about page.
 
 ### About 
 The Tour Dates page starts of with an alert section on top of a hero image of the band to inform the visitor about 
