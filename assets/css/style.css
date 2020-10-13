@@ -1,5 +1,4 @@
 /* -------------------------------------------------------- Fonts, row margin, all links */
-
 /* ------------------- fonts and text style */
 
 @import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
@@ -46,16 +45,14 @@ a:active {
   text-decoration: none;
 }
 
-
-
 /* -------------------------------------------------------- html, body, header, footer */
-
 /* ------------------- html*/
 
 html {
     position: relative;
     min-height: 100%;
 }
+
 
 /* ------------------- body*/
 
@@ -70,6 +67,7 @@ body {
 .head-space {
     padding-top: 76px;
 }
+
 
 /* ------------------- header */
 
@@ -142,7 +140,6 @@ body {
 }
 
 /* -------------------------------------------------------- html pages*/
-
 /* ------------------- index.html*/
 
 /* Responsive backround image https://www.webfx.com/blog/web-design/responsive-background-image/ */
@@ -313,7 +310,6 @@ hr {
 }
 
 /* margins to fix bug in row wider than window*/
-
 .gallery-text-row {
     margin-left: 0px;
     margin-right: 0px;
@@ -423,9 +419,8 @@ hr {
     width:100%;
 }
 
-
-
 /* ------------------- contact.html*/
+
 .contact-hero {
     height: 500px;
     width: 100%;
@@ -488,9 +483,7 @@ input:focus, textarea:focus {
     border-radius: 10px;
 }
 
-
 /* -------------------------------------------------------- media query*/
-
 /* ------------------- max-width: 575px */
 
 @media (max-width: 575px) {
@@ -506,7 +499,6 @@ input:focus, textarea:focus {
     }
 
 }
-
 
 /* ------------------- max-width: 640px */
 
@@ -632,7 +624,6 @@ input:focus, textarea:focus {
 
 }
 
-
 /* ------------------- max-width: 768px */
 
 @media (max-width: 768px) {
@@ -671,7 +662,6 @@ input:focus, textarea:focus {
 
 }
 
-
 /* ------------------- max-width: 991px */
 
 @media (max-width: 991px) {
@@ -682,4 +672,3 @@ input:focus, textarea:focus {
     }
 
 }
-

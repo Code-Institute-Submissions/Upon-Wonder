@@ -110,7 +110,7 @@ The changes included the following:
 - Adding a hero images followed by a page heading text to all pages for a continuous feeling throughout the site.
 - Change the image gallery layout to an image slider working as a hero image for the gallery page. For a cleaner look.
 - Adding videos to the gallery for some variety in the media content.
-- Making the tour dates list cover the whole page with a white background.
+- Making the list of tour dates cover the whole page with a white background.
 - Adding a map to the tour date page.
 
 ## Features
