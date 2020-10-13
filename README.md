@@ -349,7 +349,7 @@ Hopefully in the future of this course I will be able to fix this bug and make i
 
 
 ## Deployment
-This project was developed in Gitpod and then pushed to GitHub. To deploy the project the following steps steps were taken:
+This project was developed in Gitpod and then pushed to GitHub. To deploy the project the following steps were taken:
 1. Log in to [GitHub](https://github.com/) and got to my [GitHub profile](https://github.com/Josefinekihlstrom).
 2. Select [Josefinekihlstrom/MS1](https://github.com/Josefinekihlstrom/MS1) from the repository list.
 3. Select 'Settings' in the menu under the repository name.
@@ -394,9 +394,10 @@ Pictures borrowed for free from [Unsplash](https://unsplash.com/).
 - Hero image on contact page by [Drew Beamer](https://unsplash.com/photos/3SIXZisims4)
 
 #### Videos
-**NOTE!** Due to copyright claims, I have chosen to post videos that are free to use but that do not contain any audio. 
-The videos are therefore mute. This is to visually keep the band's image on the page. 
-Embedded videos borrowed for free from [Vimeo](https://www.vimeo.com/).
+**NOTE!** Due to copyright claims, I have chosen to embed videos that are free to use but that do not contain any audio. 
+The videos are therefore mute. This is to visually keep the band's image on the page due to lack of good looking, free to use,
+videos with audio. 
+The embedded videos are from [Vimeo](https://www.vimeo.com/).
 - First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734)
 - Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779)
 - Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324)
