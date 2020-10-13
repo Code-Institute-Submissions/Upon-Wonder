@@ -53,7 +53,7 @@ buy tickets.
 page.
 
 ### Design Process
-1. Stragety plane: My strategy for this website was to offer a website with clear navigation to the information
+1. Stragety plane: My strategy for this website was to offer a website with clear navigation to the information of which
 the visitor wants to reach. The strategy plane is based on the user stories which made it easier to come up with what
 pages I wanted to add to my website. The aim is to give a clear picture to the visitor of which members are behind 
 the band and what kind of image they have while making it fun to navigate through the website.
