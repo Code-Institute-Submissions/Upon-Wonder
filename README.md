@@ -115,7 +115,7 @@ a presentation of each band member together with an image of them each.
 
 ### Gallery 
 The hero image section in the gallery acts as an image slider, with four different images from different concerts. The page
-includes a heading text with the title of the page, and under that some media content of three [videos](####videos) with a descriptive 
+includes a heading text with the title of the page, and under that some media content of three [videos](#videos) with a descriptive 
 text about each video.
 
 ### Tour Dates 
