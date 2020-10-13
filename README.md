@@ -41,26 +41,26 @@ fans and people who want to book the band for a show.
 * Reflect the band's image through good color choices and fonts that accompany to all pages of the website.
 
 ### User stories
-* As a new visitor I want to get easy access to information about the band, each bandmember and where I can listen
+1. As a new visitor I want to get easy access to information about the band, each bandmember and where I can listen
 to their music.
-* As a visitor I want to get easy access to information about uppcoming tour dates and where I can
+2. As a visitor I want to get easy access to information about uppcoming tour dates and where I can
 buy tickets.
-* As a fan of the band I want to be able to buy merchandise or be directed to where I can buy it.
-* As a fan I want to get access to view high quality images and videos of the band.
-* As a fan/new or returning visitor I want to get an overall good feeling of the bands image throughout the whole
+3. As a fan of the band I want to be able to buy merchandise or be directed to where I can buy it.
+4. As a fan I want to get access to view high quality images and videos of the band.
+5. As a fan/new or returning visitor I want to get an overall good feeling of the bands image throughout the whole
 page.
-* As a fan I want to be able to send a message to the band.
-* As a potential client who wants to book the band I want to be able to send a message with prioritization.
+6. As a fan I want to be able to send a message to the band.
+7. As a potential client who wants to book the band I want to be able to send a message with prioritization.
 
 ### Design Process
-1. Stragety plane: My strategy for this website was to offer a website with clear navigation to the information of which
+1. Strategy plane: My strategy for this website was to offer a website with clear navigation to the information of which
 the visitor wants to reach. The original strategy plane was based on the first five user stories above. The aim was 
-to give a clear picture to the visitor of the members behind the band, their image and what they do while making it 
+to give a clear picture to the visitor about the members behind the band, their image and what they do while making it 
 fun to navigate through the website.
 
 2. Scope plane: The key features I wanted to add to my website was information about the members and images of them
 each, a gallery with photos of the band performing and a clear list with information about upcoming tour dates 
-followed by a link to a ticket reseller.
+followed by a link to a ticket reseller. All of these features would mimic a real band website to make it look realistic.
 
 3. Structure plane: When the key features was set I decided which pages I was going to add to my website. I originally 
 decided to design my structure into four pages: an index page, about page, gallery page and a tour dates page. 
@@ -83,10 +83,10 @@ page at any time.
     could be in a band, and found [this](https://unsplash.com/photos/MkgeKMXCPnw) picture. After that I could finally decide
     the rest of the theme for the website.
     * To come up with the color scheme for the website I used the generating function of [Coolors](https://coolors.co/).
-    The colors I ended up with using to reflect the bands image throughout the entire page was the following:
-    #0A014F (The dark blue color used in navbar and footer) and #DB3069 (The bright pink color used on all buttons)
+    The colors I was going to use to reflect the bands image throughout the entire page was the following:
+    #0A014F (The dark blue color to use in navbar and footer) and #DB3069 (The bright pink color to use on all buttons)
     * The logo was then made with the website [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
-    * The two fonts that were used throughout the whole website was [Unica-One](https://fonts.google.com/specimen/Unica+One?query=unica+one) 
+    * The two fonts that I was going to use throughout the whole website was [Unica-One](https://fonts.google.com/specimen/Unica+One?query=unica+one) 
     and [Roboto](https://fonts.google.com/specimen/Roboto?query=roboto).
     
 #### Wireframes
@@ -101,7 +101,7 @@ When I started to build my website in HTML and CSS I started to notice flaws in 
 planning process as a developer is new to me, I realized quite quickly when I started building the website in 
 code that the structure I originally made in Wireframes would not last in the end. The lack of continuity of the 
 different pages of the website was clear which led me to make changes to my original idea throughout the project.
-During the project I also chose to add two more users stories to my project (The last two points on the [User Stories](#user-stories) list).
+During the project I also chose to add two more user stories to my project (Number 6 and 7 on the [User Stories](#user-stories) list).
 The changes included the following:
 - Adding a fifth page, the contact page, that was going to include a form to make it possible to contact the band.
 - Adding a footer to the index page, to make the access to social links easier without having to go to the next page.
