@@ -17,7 +17,7 @@ This is the first Milestone Project in Code Institutes Fullstack Developer Educa
 make a responsive website using HTML and CSS3. This project was also made with Bootstrap which was an option to use
 in the project as well.
 
-[View the live project here!](https://josefinekihlstrom.github.io/MS1/)
+[View the live project here!](https://josefinekihlstrom.github.io/Upon-Wonder/)
 
 
 ## UX
