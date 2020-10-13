@@ -54,11 +54,12 @@ page.
 
 ### Design Process
 1. Stragety plane: My strategy for this website was to offer a website with clear navigation to the information
-the visitor wants to reach. The strategy is based on the user stories which made it easier to come up with what
+the visitor wants to reach. The strategy plane is based on the user stories which made it easier to come up with what
 pages I wanted to add to my website.
 
 2. Scope plane: The key features I wanted to add to my website was images of the band members both together and 
-separate, a gallery with photos and videos and a clear list with tour dates followed by a link to ticket resellers.
+separate to get a good picture of who they are, a gallery with photos of the band performing and a clear list with 
+tour dates followed by a link to ticket resellers.
 
 3. Structure plane: The scope plane led me to decide which pages I was going to add to my website. I originally 
 decided to make my website with four pages: an index page, about page, gallery page and a tour dates page. 
@@ -67,17 +68,17 @@ decided to make my website with four pages: an index page, about page, gallery p
 wanted to activate the visitor in some way, making their visit more of an experience than just showing plain information
 straight ahead. I decided that I wanted to cover the index page with a picture of the band, with a simple text on it
 and a button that the visitor gets to press to enter the 'website'. The rest of the pages was going to have a footer
-with social links and a fixed navigationbar at the top with links to the other pages. This was going to be visible 
-there at all time to make it possible to quickly navigate to another page at any time.
+at the bottom of the page with social links and a fixed navigationbar at the top with links to the other pages. 
+The navigationbar was going to be visible there at all time to make it possible to quickly navigate to another 
+page at any time.
 
 5. Surface plane: When all the structure of the site was set I just had to come up with the theme for the website.
     * I started with browsing [Unsplash](https://unsplash.com/) where I searched for potential images of people who looked like they 
     could be in a band, and found [this](https://unsplash.com/photos/MkgeKMXCPnw) picture. After that I could finally decide
     the rest of the theme for the website.
     * To come up with the color scheme for the website I used the generating function of [Coolors](https://coolors.co/).
-    The colors I ended up with using the most for the entire page was the following:
-    #0A014F (The dark blue color used in navbar and footer)
-    #DB3069 (The bright pink color used on all buttons)
+    The colors I ended up with using to reflect the bands image throughout the entire page was the following:
+    #0A014F (The dark blue color used in navbar and footer) and #DB3069 (The bright pink color used on all buttons)
     * The logo was then made with the website [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
     * The two fonts that were used throughout the whole website was [Unica-One](https://fonts.google.com/specimen/Unica+One?query=unica+one) 
     and [Roboto](https://fonts.google.com/specimen/Roboto?query=roboto).
