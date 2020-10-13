@@ -55,13 +55,14 @@ page.
 ### Design Process
 1. Stragety plane: My strategy for this website was to offer a website with clear navigation to the information
 the visitor wants to reach. The strategy plane is based on the user stories which made it easier to come up with what
-pages I wanted to add to my website.
+pages I wanted to add to my website. The aim is to give a clear picture to the visitor of which members are behind 
+the band and what kind of image they have while making it fun to navigate through the website.
 
 2. Scope plane: The key features I wanted to add to my website was images of the band members both together and 
-separate to get a good picture of who they are, a gallery with photos of the band performing and a clear list with 
+separate , a gallery with photos of the band performing and a clear list with 
 tour dates followed by a link to ticket resellers.
 
-3. Structure plane: The scope plane led me to decide which pages I was going to add to my website. I originally 
+3. Structure plane: When the key features was set I decided which pages I was going to add to my website. I originally 
 decided to make my website with four pages: an index page, about page, gallery page and a tour dates page. 
 
 4. Skeleton plane:  My goal for the index page was to make it a little different from the rest of the pages. I knew I 
