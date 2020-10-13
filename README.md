@@ -20,7 +20,7 @@ in the project as well.
 [View the live project here!](https://josefinekihlstrom.github.io/MS1/)
 
 
-## UX/UI
+## UI/UX
 The main purpose of the website is to break all information into smaller peaces in to their own pages to make it 
 easier for the visitor to find it without getting lost in sections he/she does not want to go to.
 The ideal visitor for this web page is not only fans who already know about the band, but also people who are potential
@@ -34,7 +34,7 @@ fans and people who want to book the band for a show.
 * Increase traffic to the band's shared and personal social media channels.
 * Make it easier for companies that want to book the band to get in touch with them.
 
-### UX/UI goals
+### UI/UX goals
 * Make navigation easy and clear for any visitor with good UX structure.
 * Make all information on the page easy to find and understand.
 * Customize the web page to be fully responsive to fit all devices.
@@ -338,8 +338,8 @@ Hopefully in the future of this course I will be able to fix this bug and make i
 
 ## Deployment
 This project was developed in Gitpod and then pushed to GitHub. To deploy the project the following steps steps were taken:
-1. Log in to GitHub.
-2. Select 'Josefinekihlstrom/MS1' from the repository list.
+1. Log in to [GitHub](https://github.com/) and got to my [GitHub profile](https://github.com/Josefinekihlstrom).
+2. Select [Josefinekihlstrom/MS1](https://github.com/Josefinekihlstrom/MS1) from the repository list.
 3. Select 'Settings' in the menu under the repository name.
 4. Scroll down to the 'GitHub Pages' section.
 5. Under 'Source', select 'Master' in the dropdown menu.
@@ -350,9 +350,9 @@ Go to the Upon Wonder project website: [Upon Wonder](https://josefinekihlstrom.g
 
 ### Cloning this project
 If you want to work further on my project, go ahead and clone it following these steps:
-1. Go to the top of this projects repository.
-2. Click the button named 'Code'.
-3. Choose HTTPS and copy the URL.
+1. Go to the top of the [Josefinekihlstrom/MS1](https://github.com/Josefinekihlstrom/MS1) repository.
+2. Click the button named 'Code' next to the green 'Gitpod' button.
+3. Choose HTTPS and copy the URL by clicking the icon next to the URL.
 4. Open Git Bash/Terminal and change the current working directory to the location where you want the cloned directory.
 5. Type 'git clone' and then paste the copied URL.
 6. Press 'Enter'.
