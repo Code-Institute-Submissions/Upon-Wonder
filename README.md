@@ -40,7 +40,7 @@ fans and people who want to book the band for a show.
 * Customize the web page to be fully responsive to fit all devices.
 * Reflect the band's image through good color choices and fonts that accompany to all pages of the website.
 
-### Visitor stories
+### User stories
 * As a new visitor I want to get easy access to information about the band, each bandmember and where I can listen
 to their music.
 * As a visitor I want to get easy access to information about uppcoming tour dates and where I can
@@ -53,38 +53,49 @@ buy tickets.
 page.
 
 ### Design Process
-1. When I had decided about making a website for a band I started of by searching the internet for inspiration. I 
-already had a brief idea of what the website structure was going to be, now I only had to come up with a theme and
-pictures to work with.
-I ended up on [Unsplash](https://unsplash.com/) where I searched for potential images of people who looked like they
-could be in a band, and found [this](https://unsplash.com/photos/MkgeKMXCPnw) picture. I was hooked and the theme
-was set. I would make a website about a popular girlband touring the whole world.
+1. Stragety plane: My strategy for this website was to offer a website with clear navigation to the information
+the visitor wants to reach. The strategy is based on the user stories which made it easier to come up with what
+pages I wanted to add to my website.
 
-2. After finding the picture of my band for the page I started to do my wireframes. One idea that I had was to make
-the index page simple with a fixed background image, logo and a button which the visitor gets to press to enter the
-"main paige" with all other information. This was to create a feeling in the visitor that they have now entered the world 
-of Upon Wonder.
+2. Scope plane: The key features I wanted to add to my website was images of the band members both together and 
+separate, a gallery with photos and videos and a clear list with tour dates followed by a link to ticket resellers.
 
+3. Structure plane: The scope plane led me to decide which pages I was going to add to my website. I originally 
+decided to make my website with four pages: an index page, about page, gallery page and a tour dates page. 
+
+4. Skeleton plane:  My goal for the index page was to make it a little different from the rest of the pages. I knew I 
+wanted to activate the visitor in some way, making their visit more of an experience than just showing plain information
+straight ahead. I decided that I wanted to cover the index page with a picture of the band, with a simple text on it
+and a button that the visitor gets to press to enter the 'website'. The rest of the pages was going to have a footer
+with social links and a fixed navigationbar at the top with links to the other pages. This was going to be visible 
+there at all time to make it possible to quickly navigate to another page at any time.
+
+5. Surface plane: When all the structure of the site was set I just had to come up with the theme for the website.
+    * I started with browsing [Unsplash](https://unsplash.com/) where I searched for potential images of people who looked like they 
+    could be in a band, and found [this](https://unsplash.com/photos/MkgeKMXCPnw) picture. After that I could finally decide
+    the rest of the theme for the website.
+    * To come up with the color scheme for the website I used the generating function of [Coolors](https://coolors.co/).
+    The colors I ended up with using the most for the entire page was the following:
+    #0A014F (The dark blue color used in navbar and footer)
+    #DB3069 (The bright pink color used on all buttons)
+    * The logo was then made with the website [Hatchful](https://hatchful.shopify.com/onboarding/pick-space).
+    * The two fonts that were used throughout the whole website was [Unica-One](https://fonts.google.com/specimen/Unica+One?query=unica+one) 
+    and [Roboto](https://fonts.google.com/specimen/Roboto?query=roboto).
+    
+#### Wireframes
 - [Index.html Wireframe](assets/wireframe/index-wireframe.png)
 - [About.html Wireframe](assets/wireframe/about-wireframe.png)
 - [Gallery.html Wireframe](assets/wireframe/gallery-wireframe.png)
 - [Tourdates.html Wireframe](assets/wireframe/tourdates-wireframe.png)
 - [Mobile Device Wireframe](assets/wireframe/mobiledevice-wireframe.png)
 
-3. I also had to come up with a logo for the band. I ended up finding the website [Hatchful](https://hatchful.shopify.com/onboarding/pick-space)
-to create my logo and have used that all through my page.
-
-4. To come up with the color scheme for the website I used the generating function of [Coolors](https://coolors.co/).
-The colors I ended up with using the most for the entire page was the following:
-
-- #0A014F (The dark blue color used in navbar and footer)
-- #DB3069 (The bright pink color used on all buttons)
-- rgb(220, 220, 227) (The light blue color used as background to the heading text on all pages)
-
-5. Since the planning process as a developer is new to me, I realized quite quickly when I started building the 
-website in code that the structure I made in Wireframes would not last in the end. The lack of continuity of the different
-pages of the website was clear which led me to make changes to my original idea throughout the project.
+#### Changes I made through the project
+When I started to build my website in HTML and CSS I started to notice flaws in my structure. Since this whole 
+planning process as a developer is new to me, I realized quite quickly when I started building the website in 
+code that the structure I originally made in Wireframes would not last in the end. The lack of continuity of the 
+different pages of the website was clear which led me to make changes to my original idea throughout the project. 
 The changes included the following:
+- Adding a fifth page, the contact page, that was going to include a form to make it possible to contact the band.
 - Adding a footer to the index page, to make the access to social links easier without having to go to the next page.
 - Move the navbar links to the right to get a better balance to it.
 - Adding hero images to all pages for a continuous feeling throughout the site.
@@ -92,7 +103,6 @@ The changes included the following:
 - Adding videos to the gallery for some variety in the media content.
 - Making the tour dates page more similar in structure as the rest of the pages with the hero image and header text.
 - Adding a map to the tour date page.
-- Adding a contact page for fans or potential bookers to be able to send a message to the band.
 
 ## Features
 The project has a total of five pages. The index page, about page, gallery page, tour dates page and a contact page.
