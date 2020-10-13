@@ -96,20 +96,21 @@ page at any time.
 - [Tourdates.html Wireframe](assets/wireframe/tourdates-wireframe.png)
 - [Mobile Device Wireframe](assets/wireframe/mobiledevice-wireframe.png)
 
-#### Changes I made through the project
+#### Changes I made throughout the project
 When I started to build my website in HTML and CSS I started to notice flaws in my structure. Since this whole 
 planning process as a developer is new to me, I realized quite quickly when I started building the website in 
 code that the structure I originally made in Wireframes would not last in the end. The lack of continuity of the 
 different pages of the website was clear which led me to make changes to my original idea throughout the project.
-During the project I also chose to add two more user stories to my project (Number 6 and 7 on the [User Stories](#user-stories) list).
+During the project I also chose to add two more user stories (Number 6 and 7 in the [User Stories](#user-stories) list)
+which then led to the creation of a fifth page.
 The changes included the following:
 - Adding a fifth page, the contact page, that was going to include a form to make it possible to contact the band.
 - Adding a footer to the index page, to make the access to social links easier without having to go to the next page.
 - Move the navbar links to the right to get a better balance to it.
-- Adding a hero images to all pages followed by each page heading for a continuous feeling throughout the site.
+- Adding a hero images followed by a page heading text to all pages for a continuous feeling throughout the site.
 - Change the image gallery layout to an image slider working as a hero image for the gallery page. For a cleaner look.
 - Adding videos to the gallery for some variety in the media content.
-- Making the tour dates page more similar in structure as the rest of the pages with the hero image and header text.
+- Making the tour dates list cover the whole page with a white background.
 - Adding a map to the tour date page.
 
 ## Features
