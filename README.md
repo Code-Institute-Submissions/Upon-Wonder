@@ -115,12 +115,8 @@ a presentation of each band member together with an image of them each.
 
 ### Gallery 
 The hero image section in the gallery acts as an image slider, with four different images from different concerts. The page
-includes a heading text with the title of the page, and under that some media content of three videos with a descriptive 
+includes a heading text with the title of the page, and under that some media content of three [videos](####Videos) with a descriptive 
 text about each video.
-
-**Note!** This band is fictional and do not exist in real life. Therefore the videos used are only an example of
-how the bands videos will look like in this layout. The videos are free to use from Vimeo and the video makers are credited 
-in the credit section of this readme file.
 
 ### Tour Dates 
 The Tour Dates page starts of with an alert section on top of a hero image to inform the visitor about the 
@@ -380,10 +376,12 @@ Pictures borrowed for free from [Unsplash](https://unsplash.com/).
 - Hero image on contact page by [Drew Beamer](https://unsplash.com/photos/3SIXZisims4)
 
 #### Videos
-Embeded videos borrowed for free from [Vimeo](https://www.vimeo.com/). 
-- First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734) (Royalty Free Video)
-- Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779) (Royalty Free Video)
-- Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324) (Royalty Free Video)
+**NOTE!** Due to copyright claims, I have chosen to post videos that are free to use but that do not contain any audio. 
+The videos are therefore mute. This is to visually keep the band's image on the page. 
+Embedded videos borrowed for free from [Vimeo](https://www.vimeo.com/).
+- First video in gallery.html borrowed from [Jeffreu Beach](https://vimeo.com/groups/royaltyfree/videos/127223734)
+- Second video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/152051779)
+- Third video in gallery borrowed from [Finding Footage](https://vimeo.com/groups/royaltyfree/videos/151468324)
 
 ### Acknowledgements
 #### Pages used to find information
