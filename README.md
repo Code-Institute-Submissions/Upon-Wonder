@@ -99,7 +99,7 @@ The changes included the following:
 - Adding a fifth page, the contact page, that was going to include a form to make it possible to contact the band.
 - Adding a footer to the index page, to make the access to social links easier without having to go to the next page.
 - Move the navbar links to the right to get a better balance to it.
-- Adding hero images to all pages for a continuous feeling throughout the site.
+- Adding a hero images to all pages followed by each page heading for a continuous feeling throughout the site.
 - Change the image gallery layout to an image slider working as a hero image for the gallery page. For a cleaner look.
 - Adding videos to the gallery for some variety in the media content.
 - Making the tour dates page more similar in structure as the rest of the pages with the hero image and header text.
