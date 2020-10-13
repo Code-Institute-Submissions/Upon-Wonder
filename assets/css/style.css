@@ -369,8 +369,7 @@ hr {
 }
 
 .ticket-button {
-    display: flex;
-    justify-content: flex-end;
+    float: right;
 }
 
 .tour-dates li {
