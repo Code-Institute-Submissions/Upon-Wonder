@@ -53,7 +53,6 @@ html {
     min-height: 100%;
 }
 
-
 /* ------------------- body*/
 
 body {
@@ -67,7 +66,6 @@ body {
 .head-space {
     padding-top: 76px;
 }
-
 
 /* ------------------- header */
 
@@ -497,7 +495,6 @@ input:focus, textarea:focus {
     #index-button a {
         font-size: 18px;
     }
-
 }
 
 /* ------------------- max-width: 640px */
@@ -621,7 +618,6 @@ input:focus, textarea:focus {
     .textarea {
         width: 90%;
     }
-
 }
 
 /* ------------------- max-width: 768px */
@@ -659,7 +655,6 @@ input:focus, textarea:focus {
     .textarea {
         width: 80%;
     }
-
 }
 
 /* ------------------- max-width: 991px */
@@ -670,5 +665,4 @@ input:focus, textarea:focus {
     .body {
         margin-bottom: 124px;
     }
-
 }
