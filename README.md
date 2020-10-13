@@ -313,6 +313,7 @@ Some feedback I got:
 * To include name of the arenas in the tour dates list for more detail, or include a link to a map to each tour date.
 * To include a merchandise page where you can buy the merch.
 * To include a media player to be able to listen to the bands music while browsing the website.
+* To make it possible to close the alerts on the About page and Tour Dates page.
 
 ### Bugs found
 * I noticed that the gallery-text-collumn in gallery.html became wider than the screen 
