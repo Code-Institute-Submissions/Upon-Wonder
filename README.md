@@ -20,7 +20,7 @@ in the project as well.
 [View the live project here!](https://josefinekihlstrom.github.io/MS1/)
 
 
-## UI/UX
+## UX
 The main purpose of the website is to break all information into smaller peaces in to their own pages to make it 
 easier for the visitor to find it without getting lost in sections he/she does not want to go to.
 The ideal visitor for this web page is not only fans who already know about the band, but also people who are potential
@@ -34,7 +34,7 @@ fans and people who want to book the band for a show.
 * Increase traffic to the band's shared and personal social media channels.
 * Make it easier for companies that want to book the band to get in touch with them.
 
-### UI/UX goals
+### UX goals
 * Make navigation easy and clear for any visitor with good UX structure.
 * Make all information on the page easy to find and understand.
 * Customize the web page to be fully responsive to fit all devices.
