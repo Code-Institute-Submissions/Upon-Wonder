@@ -171,8 +171,7 @@ exclusive updates and information from the band.
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 - [W3C Markup Validation](https://validator.w3.org/)
 
-### Manual Testing
-#### Index page
+### Manual Testing of the Index page
 - Verified that the background image covers the whole viewport.
 - Verified that the zoom effect works on logo.
 - Verified that the hover effect works on button and that it links to the about page.
@@ -191,7 +190,7 @@ Different Devices:
 - Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
-#### About page
+### Manual testing of the About page
 - Verified that the navbar logo links back to the index page.
 - Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
 - Verified that the "Pree-book" link works in the alert message.
@@ -217,7 +216,7 @@ Different Devices:
 - Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
-#### Gallery page
+### Manual testing of the Gallery page
 - Verified that the navbar logo links back to the index page.
 - Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
 - Verified that the image slider slides automatically through the images but also slides when clicking the indicators.
@@ -240,7 +239,7 @@ Different Devices:
 - Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
-#### Tour Dates page
+### Manual testing of the Tour Dates page
 - Verified that the navbar logo links back to the index page.
 - Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
 - Verified that the link in the alert message leads to Ticketmasters Information Regarding the Cancellation and 
@@ -265,7 +264,7 @@ Different Devices:
 - Verified that on phone devices the Copyright column disappears and only the social links column show.
 
 
-#### Contact page
+### Manual testing of the Contact page
 - Verified that the navbar logo links back to the index page.
 - Verified that the hovering effect works on all links in the navbar menu and links to their respective pages.
 - Verified that the hero image covers the width of the viewport.
